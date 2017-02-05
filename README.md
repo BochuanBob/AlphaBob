@@ -11,4 +11,5 @@ In order to properly set up the environment for AlphaBob; please make sure to ha
 - [Python](https://www.python.org/)
 - [MongoDB](https://docs.mongodb.com/)
 - [PyMongo](https://api.mongodb.com/python/current/)
+
 Instructions for installing the dependencies have been comprehensively included in the links above.
