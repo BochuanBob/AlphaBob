@@ -1,0 +1,3645 @@
+{
+    "amusement_park": {
+        "html_attributions": [], 
+        "results": [
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.13811680000001, 
+                        "lng": -118.3533783
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.14022815000001, 
+                            "lng": -118.3471418
+                        }, 
+                        "southwest": {
+                            "lat": 34.13178275, 
+                            "lng": -118.3601866
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "4f55afe8d73fc6ad2666f3f3f7fbdd185482bab0", 
+                "name": "Universal Studios Hollywood", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2160, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/109684908899058016558/photos\">Lady Garcia Duarte</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAMfGEnqAGaQssojLeA6j1WnMPgwkcslfGh5fu-XU1EdsrcfcUEmdMoigRh3cFQDNs6MdTp-9um_dw5Kf7XBiyke7aItDMcUC6Viso4B8MtJA6elyp20l878qp4B8bEGKieZoetgHOVeRNAF5GoZ1xSG_V9HWnq2e4pblzsMgaDGOEhCnA4Uuu7ilFx5mF34LxVJ-GhTUyR-EVQlErpzQ-KHOf_kEwgy5jA", 
+                        "width": 3840
+                    }
+                ], 
+                "place_id": "ChIJzzgyJU--woARcZqceSdQ3dM", 
+                "rating": 4.5, 
+                "reference": "CmRSAAAAmoqN2btU8_jbIFRG_XunVnw8VV2fIPUE8dvixfuwdItZXJHsbbx6geiwEOMI0IeQ5-8SDWRuBLPnQE0IOQ9mpOoRbzS3vQ2CVcUpFAg6OqnaTXYQPEm_HObiQLukV6gmEhCBCvYum2u54RfcMt6a9cQ7GhSGZV7h2eLPB7ScwfSqJVZU8hTJNA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "100 Universal City Plaza, Universal City"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.8443038, 
+                        "lng": -118.0002265
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.84493845000001, 
+                            "lng": -117.99583015
+                        }, 
+                        "southwest": {
+                            "lat": 33.84399984999999, 
+                            "lng": -118.00169195
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "ba3822e9b717acb21d9b7b1d4a9bc6e8652cb5ab", 
+                "name": "Knott's Berry Farm", 
+                "photos": [
+                    {
+                        "height": 1365, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/106648050396196008809/photos\">Knott&#39;s Berry Farm</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAIY006Z_UMGU10SJLSddQPAKXUFZ4ESGCHJJjKieJ2EpcbEYW4LhRD46bv_Njm_fb1eeSYLkkcDu9zD3VLO2bdy5gPjUh-LC7RcO6h6CujTAS7ctz4jmr3Nxh1V5JlZThUxeRxMT_C8P3FQ_7i8W8_Vf0bBy6x23UodWKSX_NfU5EhCSPiCGwjU9A0PNRBIbgc2SGhTdaKG1VBAleNl76o3d0whlKlPg2A", 
+                        "width": 2048
+                    }
+                ], 
+                "place_id": "ChIJo3h_9V8p3YARVTAekE45jq4", 
+                "rating": 4.4, 
+                "reference": "CmRSAAAAGaxB37MhjW1rkC3y1P817ONc7yg9UMzAG6-QouMSnpqAT0nvm260njqWyxIJayn2fnuZbYJoALhVywVuuFGzRO8Z3ilexltFesDfs557gYbypljnBDTMOqyI4aO1yglcEhCJF0XSjO-ZAO-_vEXzzabZGhQ3s0MuGwabYov-pKLmCpp478poxg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "8039 Beach Boulevard, Buena Park"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.1366477, 
+                        "lng": -118.3533455
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.14162165000001, 
+                            "lng": -118.34693895
+                        }, 
+                        "southwest": {
+                            "lat": 34.13151385, 
+                            "lng": -118.36712515
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png", 
+                "id": "c62fa65687392c618f247bee89ec2a48235fa83e", 
+                "name": "Universal CityWalk", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2988, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/102755607240381829910/photos\">Guillermo GomezLeal</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAD8sS18bGd2QEl_5Xl6W3qmIMW-ccOkcr9F4GDOCADUZwdSiP_laOR_T3uF9Adp88DpW46Xh0mtfRmrBvBC7HjwbVUgwKFCdhIjcJVLEi2DKYtFDbmgG3gKFZ9qXiCIMu6liMGaiBnq6OoKrONunzBO-YVm2sEJHW9iflp5wRxixEhAuqNq7hT5DrIptj8cQr4aQGhS3aHWROUtIavTgfmHPnqdYQUUx_Q", 
+                        "width": 5312
+                    }
+                ], 
+                "place_id": "ChIJdzBcVka-woARXKXAmSS8NW4", 
+                "rating": 4.5, 
+                "reference": "CmRRAAAAM9BVAz8nNRZ-pXBJmN3dCKov18I9Yc3RtXIAyB7w7j_iYwLofqAPbXWCMxNTDz1sCa3JwSy-40Yl9WhFP_xKRP4ybAqsQ8lp-w3ySilKgYDk1iUiXmRUfk44Cz9QaCI_EhBw9ovIzYQePDCQOdydT1KzGhSQXSoQkPJAtGaBhPiAmVj5ecV1_w", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "shopping_mall", 
+                    "amusement_park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "100 Universal City Plaza, Universal City"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.1013818, 
+                        "lng": -118.3385342
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.10164655, 
+                            "lng": -118.3383506
+                        }, 
+                        "southwest": {
+                            "lat": 34.10129355, 
+                            "lng": -118.3385954
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "32aa2c7d218748db0b696a77fbcd3e1aef5e85b1", 
+                "name": "Ripley's Believe It or Not! Odditorium", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 446, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/111288131762652863696/photos\">Ripley&#39;s Believe It or Not! Odditorium</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAADDPiw_k4-ChjHia5rzKcYKS0giI2qlDul6KHcnchAvJhkRBD0M3VJmhYtaPydXVK0kBt2-4jYWDwZGQpGCEtaNsZ1jLu9XwEJn9uWxcyeI4OVtBiYZvYSMn92vS0DS8-hj0K_4CDxIBp9NDRS4XCpRD6r5UDoAV6jPXYrke-_BnEhBYtGv_Co8kCUSV6HZiA_p9GhSxPcgP9X71yRvZElncdDzn99_EkQ", 
+                        "width": 446
+                    }
+                ], 
+                "place_id": "ChIJJed6kSO_woARSuZ41Fvi1q8", 
+                "rating": 3.9, 
+                "reference": "CmRSAAAAoNaHT8aOP8m223T8gRiZ-K2c3QEBZ2BDLm4aG8Dx1vett9SFbx6VyXwAf96O_bUfiYvVB44Lwhn1C1OInM-5PCquvkLD228uxPw4VIFr05t6PoOncVDkKt3nn7MIUXzlEhDyg6FT0CcExgxIgkcOZPv_GhRQG2Hdea2w8HV5-6G-ZJLsITucRw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "art_gallery", 
+                    "amusement_park", 
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "6780 Hollywood Boulevard, Hollywood"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.12199820000001, 
+                        "lng": -118.2735203
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.12229850000001, 
+                            "lng": -118.2732711
+                        }, 
+                        "southwest": {
+                            "lat": 34.12109730000001, 
+                            "lng": -118.2742679
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "f3f3fc018ba59d7cfaef9e30b4c6ce461af8a360", 
+                "name": "Griffith Park & Southern Railroad", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2988, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/107646795196823419497/photos\">Abraham C</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAACPAd3Uny49xIUjT5wEm-l2-GtwxVNES7kl_3LrUAWZb2gMpPKPmoMJ--VhFo2IcT6eUeAcS_rLoOXAFErhfa_p_5Qen0_rMcOV9rA6P1myqLuAZN6EgNnNMFoxU9mDSP4QoIZ0abCJ4wohZMrd0yELgDC325sYSnQH9WEkwdgoSEhBbqwgykTZIeMN-SSUU0wQpGhR2XYhXH2ymQ-aXP4-WmOSzX2AvqA", 
+                        "width": 5312
+                    }
+                ], 
+                "place_id": "ChIJKZTfFOvAwoART3KfE7ghE9c", 
+                "rating": 4.1, 
+                "reference": "CmRSAAAA217oi_Prxa8ej9dsPi3Sh4cd35qV0Fa1wBH9ITfpjfJraDloA_IY2ny5RXFNg3NYS8fbleDUB9g1j0Y_wM92J0D2EO4_MaBTPOqqB-8PAJ5n9YAHFGyAnokemcG9dvKeEhAOSogWLqDQ6n-I9qkDSPwBGhQRs7x4t_WVwN3TEqvNme0LHnTuZg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "4400 Crystal Springs Drive, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.161657, 
+                        "lng": -118.4675208
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.1616597, 
+                            "lng": -118.465476
+                        }, 
+                        "southwest": {
+                            "lat": 34.1616561, 
+                            "lng": -118.4682024
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "914ee20db65d7d9e3fbb6c82839aa667a48475f9", 
+                "name": "Sherman Oaks Castle Park", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2988, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/108686339599049705603/photos\">HIKO Kiramityan</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAOzFkzr1fHZf1tYaY-4JzpSQyfdGVQySRfh2aCnzxvlAsvhAZ8E603Cdjou8Vs3bLfTplA6oRirbb5ZPvrROZs7PR-u3dfgCRJUlAv1V_oEpNHUik_tFWK3N0ugA1BRu_hO_t2PnBy5c-5VKPwpj1pax-RIb5UstK1oghOCYTrflEhDrjkWIeEUeFjPCZT9VPINvGhRIyOQCQS8JfTEMrSu5LvKGym975w", 
+                        "width": 5312
+                    }
+                ], 
+                "place_id": "ChIJ_wF5xJaXwoAR_bM6Tlzo7nM", 
+                "rating": 4.3, 
+                "reference": "CmRRAAAA5mUTXWumyzkDTnj8DpuDNvXMawb98PXBV9I4qJZhGFC_fDWfyyLRC2gPpwD5WKAjUBnx82GsN7k8atKH9YMmiNoGF0HEAjIVLJDOe6o2ZfRpOEZI15xmoBrkAV7bX_erEhAztKW3A1BhgF01zkNlIQnYGhR94S9A343NV9sR8it4AfGu7gF8OQ", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "4989 Sepulveda Boulevard, Sherman Oaks"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.9265879, 
+                        "lng": -118.1061875
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.92674420000001, 
+                            "lng": -118.10604755
+                        }, 
+                        "southwest": {
+                            "lat": 33.926119, 
+                            "lng": -118.10660735
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "3aee78589e19af7981ca3556d02af7226df5a147", 
+                "name": "Golf N' Stuff", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2988, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/116153099253057571257/photos\">Myrsa Parra</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAGMle9x5Ow2OWADBw1x-OCJ-ygF2vqHl5HvPzzZh4bFC_fLRxHkOF0DnvbP0g_EPS4kpxpGGNJMvwT98z6nc1NKu3C2gtvQN16rFWqVbkxby--mhKN8Hk0hSTo25iVAo7z3cd2Lytb2gY1LGHCDMvrqREa6zADBix0_jfky1Mta8EhD_CTbY4EKiN3iHhS10E_P3GhT9v7NQS25dsPhk76La6BB-YY4UEQ", 
+                        "width": 5312
+                    }
+                ], 
+                "place_id": "ChIJOYBXXpvSwoARvXKZb8jJDxg", 
+                "rating": 4.3, 
+                "reference": "CmRRAAAAgD7ZBoLDWGnVah_604Ij8AAb_ZaBZfiwqnA5Z64RX0NiR0kpEle68Oe2uMJuZcth8i-wE0s4EFvEkoV7AlVmSBA8K8q2fLB-7-hvGp7UoY2CJY0fj8HLRwEONAf-1WNKEhAoYVXJf9tal1ZIkqSfduW4GhSOGGKDH0mu_8a1JJdGU2CiiIlpgw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "10555 Firestone Boulevard, Norwalk"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.211214, 
+                        "lng": -118.4930902
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.21136205000001, 
+                            "lng": -118.49209885
+                        }, 
+                        "southwest": {
+                            "lat": 34.21116465, 
+                            "lng": -118.49342065
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "53a98917cb8f751b1ccfa16d06b4003168431bb4", 
+                "name": "Sky Zone Trampoline Park", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2268, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/100188088167273189224/photos\">pureum kim</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAJT8_yDq1LrwV1dfCwFHiwkCbHWJyLxHPxLpzx1Z0Sjdq3HgefecCzqR2ILPJ-w7Wi0hLyaPoQWrNT9fOWeTaN95k_Zisqtn1UzzFgaEf0QjfYSAiamoJcfGkWOKzWKk_Tqpgi8Lf1nynES0_4X7LIITEDeHMlEddZ7qB8b0q0LqEhC9rV_i0WyshFiMDzon4Jk7GhSgVRlVdLoC2POLpZUjTiHvd_O-qQ", 
+                        "width": 4032
+                    }
+                ], 
+                "place_id": "ChIJo-yLFwKawoARySZA_RjBYs4", 
+                "rating": 4.3, 
+                "reference": "CmRSAAAAnVrai4JdKWby2-8KitFITrDRWbycx9zC1j9L1eeaA3oFHZygX5kbFpfV0n0EQsRCb8Io_3_gWLxWHApeTrJjXfYSZ2iqLEo2zBLO-1f18ZCLz9yw2Jxh0w12yFKVy0GIEhC_RkWToVzi1tEZMwOT4KrXGhQcNJco2fIJiZbdhd4JSAVBlvyEkw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "7741 Hayvenhurst Avenue, Van Nuys"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.42533049999999, 
+                        "lng": -118.5972191
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.42644874999999, 
+                            "lng": -118.5910937
+                        }, 
+                        "southwest": {
+                            "lat": 34.42197575, 
+                            "lng": -118.5992609
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "19d929ecc617c17c41ad4d05592e1d4546f5d767", 
+                "name": "Six Flags Magic Mountain", 
+                "photos": [
+                    {
+                        "height": 3456, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/113031217836146499263/photos\">Karel K\u0159\u00ed\u017e</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAO5nenoH0w_ZP1WYAJei8zFRyMt3XyuFQwpCQ5JywjVUHuvGAd7lcOJqEZBkddKTXLYO_Zok0V7wVJMupmZu4xQIITwKg5-jZitKPLSFtD_TGvxGVKoW9eVOULumd7LiYr_n3i3cRnalTgjyCNe2k-InuvyDd-jSpd-o5CBOXVBYEhDgQgLwxc2D7ypirwDbbF8RGhScmAJx5RjDZ0SfskXGeAmSsSZPqQ", 
+                        "width": 4608
+                    }
+                ], 
+                "place_id": "ChIJxWX6v6WAwoARQEdzPETBA48", 
+                "rating": 4.5, 
+                "reference": "CmRSAAAAW48bWDzVGG0ZmcfrvEi3SqIcxH2JfEqdcKsklMvDYF4Uba9GZ4bsZKsWLSV7t2RfVNki3RY5m-kn2LNB5-7RquPMtmmUl90_eKF5K5AOSDITqqWE33NoRYMzklLcEa_WEhClR8QD5E2B6pANFgLBS8CaGhRtKOnKarGjeATuDaWaryWHMayDmg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "26101 Magic Mountain Parkway, Valencia"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.8957564, 
+                        "lng": -118.1411661
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.89691095, 
+                            "lng": -118.14115825
+                        }, 
+                        "southwest": {
+                            "lat": 33.89537155, 
+                            "lng": -118.14118965
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "ac960fc74cbe98807b780a63705564d304d37082", 
+                "name": "Haunted Hollywood Sports", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 4032, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/103775769314433128858/photos\">John Rodriguez</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAB5uetLJGhQpiIWGHHhM2zpJVWsLO2VBXa1ZsMfVxWBqf2EJz1l8iFTXICIKAXZJYisE8v9n2z4ZH_Ol2tKdKM-W8xvhlVpoWVmUGbypS8fVAQhMwHSFTHgdemK-Ek1_I8qw8Z2bB5MJ8I8xH6NZyl2KxRWl64Kqw7lM0P7TXxp_EhBes0mt5b6RMrZcZLEOaWhNGhRJ8eEKwcf83iZTaYNw3TRrX3NR9A", 
+                        "width": 3024
+                    }
+                ], 
+                "place_id": "ChIJHWBC1DbNwoARc_GWY_abhvg", 
+                "rating": 4, 
+                "reference": "CmRSAAAAzcTlvnEr7SypcDinuDzoS3vyChVwsCoigvv8oK-DTjwS57vJ0z1PmbTJ-W60b7_TRCv0edJlbmQGiTzZwGQaZyY1sBONrS6ggDh1EFFo9zsFx0W1rtObfmGqyoawYdg9EhAlSDtKmHlk5Q4ZObrYkSGgGhQQ_tHzAAxMIa9lsmc_g7gC4f7naw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "9030 Somerset Boulevard, Bellflower"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.81539229999999, 
+                        "lng": -117.9920503
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.81630340000001, 
+                            "lng": -117.99101005
+                        }, 
+                        "southwest": {
+                            "lat": 33.81445379999999, 
+                            "lng": -117.99279425
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "d5dadd349e5346502ff119840c66916cfe763762", 
+                "name": "Adventure City", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1836, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/107470651113734418217/photos\">Mark Wurst</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAANQTXFz3wcYuL6xNagSTYv5c3j4Xj95Wj5A3xNFbXmSyijCqbPuGbPEzktm3q3IVkEKtui7yRbI-SCpjk92_opCgsOF_k4dbvkjs8xFuF2aMn8Yi1HEslbr3nxAI0D8kDYdDQn18k1o6ePa9L3egrqbybDaXDEwDt232khsRxOiYEhD7KIo6LwiCOoo2r8NoZMZTGhTr14Sz1a-fF3bISKItqNzAxisElA", 
+                        "width": 3264
+                    }
+                ], 
+                "place_id": "ChIJySrEaBYp3YAR5_j_U-fzOxE", 
+                "rating": 4.4, 
+                "reference": "CmRRAAAAx8ePraWM3K4eRd-58VfZ9tuykcrPIbjatrJhtI6MW97RJkpAN_rnediIdNBpbBejbKs0xcYJCJr4UHJU8pyB4ILapOrFpuGNxhIuJFy5jUAGk1bAhZzckAMb5QxJO2tIEhDslw5MXNu0lL-NsT8yfKDOGhR3jDlP00yyWeplKwK8bJhMkF6fTw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "1238 South Beach Boulevard, Anaheim"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.8588201, 
+                        "lng": -118.30797
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.85905464999999, 
+                            "lng": -118.3079609
+                        }, 
+                        "southwest": {
+                            "lat": 33.85811645, 
+                            "lng": -118.3079973
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "257d30852f2df0ab6d8c8654911cefd228ea1b2f", 
+                "name": "Sky Zone Trampoline Park", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1836, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/110998545796393235199/photos\">Tommy Moore</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAABPE8Ttgki5N9J_C82ixQ7cSLRt7AFENblbYiwtuft0RPm2AmAYerz-UonLrd4O8VucuwDKHD3ByOsFpfM-H0Yu6jhTFNM8jgvplMO2cmcrJzyX0FmJ3WsTvNyJHah8gKLEvANZSwrGNFJFgGLrtDSyea1yt1foraePfnyd1X8qZEhDvaq7WJI33LkmUzro1UdwvGhRanvAQwFLaPQJfVXt3FELWNrx47Q", 
+                        "width": 3264
+                    }
+                ], 
+                "place_id": "ChIJYVvU81q1woARhUdZaF02Urc", 
+                "rating": 4.1, 
+                "reference": "CmRSAAAARFr67IWjutxqIb43fMJEGYRKRMv5s76F_zXnMikvLVJXr5uYURyx2CX2nYb7JtI2mgsPQytZM4R2liz9KH3L7rFVaUptbHEyXsHVUQzsFK52awOru5xEFlalSPU3UlneEhDDgxro2mp-Nc9ORpzT_P4mGhRJHwgQFRlhL2lliGvBZk40Dxupqg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "1625 West 190th Street, Gardena"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.4249418, 
+                        "lng": -118.5944221
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "7392ac73cce6a57a1eb64a458fb07b1da91cb40f", 
+                "name": "Six Flags Hurricane Harbor - Los Angeles", 
+                "photos": [
+                    {
+                        "height": 3024, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/116899122732352725499/photos\">Michael Kwun</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAMyhqv3BBMa-9kvhaXWG0vqzR471LYvsOzEyVvtQJj-y07rS_BKl5racEQt7QJv04yIyhMYoWfHrvjUZ_2IzW3LnkiTzHgJLY2c34D81jL3Q_TMb7Js_LbPCpDxiOu97OiUGKARqqawQQu5f8yXjZwvF7QTYMO8g8WQHOIs6Y826EhA7PrxTAIi_rlQtnA0sQr2fGhSIgJ2yVlMUJlb4dxGU6igrS3X68w", 
+                        "width": 4032
+                    }
+                ], 
+                "place_id": "ChIJ5xCI9aaAwoARMYb8843ltCA", 
+                "rating": 4.3, 
+                "reference": "CmRRAAAAYf3MRj9vKPi3pL1hWSU6zckyiOGBESOecmz7gGy57QnDwBz0jqeHAkqDxUUWgSF3BrLks_MGhLVHSspmMb7eif4L3_nCRIPCRHQTL6MoVVULDEsf07UQP9MDPH0OGSTmEhDRswwlOceq6ZOwAFrmmhnDGhT309mDKMK_D0jQyOt_7J7TGEjTYg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "26101 Magic Mountain Parkway, Valencia"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.09389639999999, 
+                        "lng": -117.8102512
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "8c873ff57ba59fdda3bc39a451d4e938d90b44d3", 
+                "name": "Raging Waters Los Angeles", 
+                "photos": [
+                    {
+                        "height": 2988, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/105451574828408640836/photos\">Jesus Hern\u00e1ndez</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAJAtUfBVwp55j0Mz8X-F252OXnR8N7-NDwofv5iihEyQJSBQEpRN5DMp7sd1Ney6ERuwNlRQP8Jw2HrJmJCYXEa2mypoQCQjpWjt8whALcx0lBDOVyEmiYl5x67Giz4pxFVwVkkoapF2HX5Ba8VCkRHsoa-tzvMyY0FECMp7ZeWJEhA4igTk4luMtvqBw9WWS4qMGhQDsMH0d5HdiYVTvkfg4dP07nlcuw", 
+                        "width": 5312
+                    }
+                ], 
+                "place_id": "ChIJtT_PUiAvw4ARAOeghl4RCxo", 
+                "rating": 4.1, 
+                "reference": "CmRRAAAA1g93LgMY7d3p2vHepgjQY0zzlDy26EH3-UDlojW2p6za5DRFbb_TJ-V0dcfoMCrhwO8MBzExYd7Xh_0PIJmRo1VqNlDP3qs7JRp1aeotSZxkBHBmtFMI_WU3nVQxI2w3EhBRYMldASkc5ijBQ-7k4O9yGhSGI67moS9XXRSW8O-pqkp1JvMwkw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "111 Raging Waters Drive, San Dimas"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.806112, 
+                        "lng": -117.920859
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.8213072, 
+                            "lng": -117.9171629
+                        }, 
+                        "southwest": {
+                            "lat": 33.8007272, 
+                            "lng": -117.9242733
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "01200d9384aa0c644ae333178f6802e76f07e0ef", 
+                "name": "Disney California Adventure Park", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 360, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/113601223992136444445/photos\">Disney California Adventure Park</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAD0gFI06biJhS48zL0gH_d04s8Sx_35AoopGmZn8epfFVN_Wa7cC0cXHv87voj1AT9nD1p8IbywfKpDRAG1QGPpnJbQCsa-ef-53U6dtZsghF_ci7NKow7EK3pAxO5rTdRvdC0Zg1_Z400_7eX0277rqwBWojHTwrEKNbY9V-NtCEhACb3BtbVY0n5nZNv0D6Gq6GhSq6p7413HhaodP-Tbm8qIxoof33w", 
+                        "width": 640
+                    }
+                ], 
+                "place_id": "ChIJZeXhi9XX3IARYcIA6Qfcj2o", 
+                "rating": 4.6, 
+                "reference": "CmRRAAAAt5lj4NHb5V0XJTPfeDDPJ2LDxeV5idb145kzKBhzUmC6_oVHlnF_tOHvIyPbob1jD82mE0wovZxDUs4I4OvTrGCDrsRbvw5U08w2JA6ZpbsfUo2qKFHcNYJNBN9W91E7EhChGZdjMZ0ttTSx9pG_h_rJGhSYJUfwnaivOCfEINY1L5aqzpcbKg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "1313 Disneyland Drive, Anaheim"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0173207, 
+                        "lng": -118.089913
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.0177989, 
+                            "lng": -118.08947
+                        }, 
+                        "southwest": {
+                            "lat": 34.0171613, 
+                            "lng": -118.091242
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "cd20f6dc9b35e62c7fd27682ded5866a20de8998", 
+                "name": "Montebello Barnyard Zoo", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1440, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/107103313064058589919/photos\">Geo Arellano</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAANMGIaYHLROcKWLmFhLrvzrMz7sX3kCbvX33Y8yx9BaqSS8UVKAZIaDRdmVkP6CckLNExX3O5lA8ihj2p3taoHBXqCB3KNsMPjPhvmsgXdh-dwR7hJmmAzrzh9y6jwyp9mPKwQc9sGdEKoKPRmmSp5uoNSz7EI2TGP2HblL-okLZEhCPuExoFsGQ_321OArsLnKVGhTG64nBXm1HoJoGBWqV1MqIUosBPA", 
+                        "width": 2560
+                    }
+                ], 
+                "place_id": "ChIJa31l9cnRwoARPHCNBi-NCtg", 
+                "rating": 3.8, 
+                "reference": "CmRSAAAAnmVY-KV-WzKXK4HCU8JJ7ClbmLMoXCuYyDm2jCJPljchcegsHT9Aath6DSVNUWbIVoT9Yiso2YPpR3RC_qnbrCeEimzze22-uhEaBDSGUIzfqF5a86NGeBQZf27q2yJSEhByI6ENoSbkOWWEafJ5zVJhGhQb7c5AW4b1zxDXSLDOST9-jg4B-g", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "amusement_park", 
+                    "zoo", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "600 Rea Drive, Montebello"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.9056501, 
+                        "lng": -118.0083989
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.90588244999999, 
+                            "lng": -118.0067442
+                        }, 
+                        "southwest": {
+                            "lat": 33.90557265, 
+                            "lng": -118.013363
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "bcfca985964e9b5397e03c7f38a003bd0c0a4d95", 
+                "name": "Splash! La Mirada Regional Aquatics Center", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2448, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/116223854346741711638/photos\">Cesar Pantoja</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAGm4Iw5La0WPEbcm7tRxdgr1Z4Smd9A9Hi_NiWsh8l4Nb780qrR78fyii4ZQMhx6XXhTKj52RLYJBB2zWODcsL1qK5OpJFQMPxFE3dMgkWwhjj8SeMAjPyTBwTa0CrDSR7PhfdpDkfKz9p7NAC_wo2OIhiOBS1ZMz9Jv-At9NBmkEhCXpzzqCzW6maHMAsUfLxNyGhTbktzEeIiWUTEMsVbK_CgPVYjT3w", 
+                        "width": 3264
+                    }
+                ], 
+                "place_id": "ChIJEYE9k1sr3YARhvyQWkv3Xsk", 
+                "rating": 4, 
+                "reference": "CmRSAAAAIE1TVwUix80VSRqtIf-7Pb_R7wLmvY-WGhsyAhXC7HgNPBljRPnaU3Vo1vlcqpNGO1KZ6ipBfnpIN5vE8uGeD6789VF_lOQjXbF1odDiZA8OyUiCR_19rfDIa2p0kCFtEhC74NSpeI7NrzTL9QkT_BdUGhTeF8IFrr7TdXFcdvgG_XDfpR3rRg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "health", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "13806 La Mirada Boulevard, La Mirada"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.8055771, 
+                        "lng": -117.9186778
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.8067908, 
+                            "lng": -117.9167925
+                        }, 
+                        "southwest": {
+                            "lat": 33.8036442, 
+                            "lng": -117.920947
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "b158e2d64101b97a732eaf7664e81bff6b496a13", 
+                "name": "Cars Land", 
+                "photos": [
+                    {
+                        "height": 3080, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/102109086325610477496/photos\">Sean Tate</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAIRh6NOv8MvYXjNTyLmHp0M8PDhIyGL2WJbhjHGeW4Ka8Aus8zm2woHCeDFkXHLpfZ4xSZRy_rSwEVmn7xNQVRCTDv-q8M1OpKglQ0Gs-LC2Ln7HWfrm_QiHFcbH2uMfujElNOj-2FvaRUDBmqDHSFdGHWa-NjYCeXOH0ZFmu1wiEhBfKV9y-5LPXgNDSJRkgYq9GhTcJHF-2jHV_5uQJB7lrDo_-HgCGQ", 
+                        "width": 5472
+                    }
+                ], 
+                "place_id": "ChIJSW4z2NvX3IAR7rVdCwx8sZM", 
+                "rating": 4.8, 
+                "reference": "CmRSAAAASnLM4UJYP-BXfZ8qKELBlNwSmuRhN4dF4o0nH154oYaqXXj2UsQwa8GrnarNouGgycNqXOlYR3_mm4k753lmjRe0RLFa83bcZZSwbW0hffoXstN_mr292fO4xXsnWvM5EhB_oyhTwQiqH2j42Blee1njGhTXFEkQCgX637wgLu3j8BZTkNz06A", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "Route 66, Anaheim"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.4153882, 
+                        "lng": -118.5115814
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.41673249999999, 
+                            "lng": -118.51140495
+                        }, 
+                        "southwest": {
+                            "lat": 34.4149401, 
+                            "lng": -118.51211075
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "606f155a6c2c0ec73a6a768ed1cb620729460a5b", 
+                "name": "Mountasia Family Fun Center", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 646, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/116413480151646958820/photos\">Mountasia Family Fun Center</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAEaWV7MxyrHmjlN-HQZ6bUZQSgD10EAcLhDquZ0m5s2oiydmgZLK1LYQTrkY_QDAupCFuNSclj-xgRAGM-7fYvRa3PjTbj18QsbmlPLpPShugFX2ZattmgmBQ8-Plw6HzGrDmH_KSmwqxO94ar78wOxAUGRDb1DM0E3KGrbx_tsgEhDjRLjKvRmMusy9I4EqfiagGhSnce9SMd9-lChfcKKU76zaS4ow2g", 
+                        "width": 645
+                    }
+                ], 
+                "place_id": "ChIJAc-_R7aHwoARk5V2VcMgroc", 
+                "rating": 3.7, 
+                "reference": "CmRSAAAAqy1erpBku35-RkYI4nNe1jtZsCC2vBA3L_Kdgwofj54HX0gXRUoxuzcL2XszNSTS2AVMhTuXqgwn-Cb0iNOsl2GghzpcBlpDETKpTbK33oNpy4rThdezVpHq86yOjHrAEhAER7LyScavEZP1LXzMI4E1GhSNJZeKUOzLpBOWoUepNT0CqHEqhQ", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "restaurant", 
+                    "food", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "21516 Golden Triangle Road, Santa Clarita"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.8409161, 
+                        "lng": -117.9948951
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.8410796, 
+                            "lng": -117.9942999
+                        }, 
+                        "southwest": {
+                            "lat": 33.8408616, 
+                            "lng": -117.9966807
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "4495632c0a50a513e05beab66a72c7b688a76a90", 
+                "name": "Knott's Soak City", 
+                "photos": [
+                    {
+                        "height": 3024, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/100888931587873271295/photos\">Alejandro Perez</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAMPlYA0i930VGxFqPT_-VNpRV3xMR72Wkkn97siYWL28VPLODdfkW5479SIbgAAvZlcc-17oGgGd02khdlgkYL3dcDojz98ZP9X-0n5464Xgrs4-3KHJDerE8FSrzHjt77yyxrWkTqtqlahQgXCew58ALph4UqW01x0JGuzkEgQ2EhAZ0t6iyu2qbRUHPrsd6xnXGhTTpwQ10z_gTU-A3NCwtadorbSxyg", 
+                        "width": 3024
+                    }
+                ], 
+                "place_id": "ChIJo3h_9V8p3YARRU45Q8H7_70", 
+                "rating": 4.2, 
+                "reference": "CmRSAAAALihaxsIyMm0Jf81T0gVR2fb90PwYIs0UHRhRDiOo_XAu2juuWEvyUY5_zeZi_VV-SPdztJqRC_d88hygg4Aav4gxkR2lMF9DVoPwTcu-HmtjYbU3w27r0p1NbPQ5r8i6EhC1_hf-XJxrLwu230GEFAEjGhQkB8N69S91tTh-Z48DBFu67JTv6g", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "amusement_park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "8039 Beach Boulevard, Buena Park"
+            }
+        ], 
+        "status": "OK"
+    }, 
+    "aquarium": {
+        "html_attributions": [], 
+        "next_page_token": "CoQCAAEAAFxscxUAAGYDd9ORpyqY0LadDUYHcZd63utJP-V0z8-vBnE8DUIti5aXgeD581CY4NvKZdMKAe4sqeCze2jeyZrGl4JqD73GGzl8aV0UxKKpzoJ5qVi3LF1JLI1oqCaI89SFlpQmezh0FqH6ae9ieJ0dkQezADjKgRAAQVFaPEPjN3GtiS2ntfESymqhWrKcIrIJSkaiBk3VbZ6Po5imhb_RbC0xQF1yPfbEWSndzClSb2U99DT7W_wBoM5yn832ddoWjZYaQOwoASyytY7VUdLmOWGGqsflMr9lPIMWReJqBwStlEl4P-y18IC7KDyqhx6jgjlnB31AcXhMTjku7YgSEIV4v4mxgs7V1l2oLylGcuQaFCEbN1NGkcEnfPFzhi1YBpAXPsL9", 
+        "results": [
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.76214880000001, 
+                        "lng": -118.1969808
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.76382749999999, 
+                            "lng": -118.1954968
+                        }, 
+                        "southwest": {
+                            "lat": 33.76007790000001, 
+                            "lng": -118.19834
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "d63b920bb3edad8be8fe61e71477c01ddee688fb", 
+                "name": "Aquarium of the Pacific", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 3000, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/105151944988116939134/photos\">Peter Ngai</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAMAgeSkvzp-MPvIUQdXWaPTYmpDNmb1nrORhY5ftGTQCk35lkEntCENu6BvghhZgki-KTFEfNmUu-4B525TP6jpg6amJQm9osEYi8EbHqI3VTMf9oeku8j7fRjoub5TJWXDo5fbDrmj3m9Wtno1K15Y0kHlEVcgdnSB0x2GhwFmZEhDTs9rR6FtKPHdSFW2qUNsDGhR7jgoJ4AM3YLjStqb-fcyxfFDY5g", 
+                        "width": 4000
+                    }
+                ], 
+                "place_id": "ChIJtXzMMjAx3YARll7hgkff2pY", 
+                "rating": 4.5, 
+                "reference": "CmRSAAAAY4UzrqARZYWuX0bgoLyMbE9w-u5hvwDTAfjdVPU3-KQcDoh2tlgdhhFOVD1QqTSprojFM8fRjdn0bAfcZJJuTeW6s3nH51qv1VxfdLyREIZsANhEY78pn_wGUA6KMM3sEhDMzTRUL0I6oX09xhJfnsazGhR81nhz8QKQZwNldFFqxnXYvjfsLg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "100 Aquarium Way, Long Beach"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.71098840000001, 
+                        "lng": -118.2852845
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.71101925000001, 
+                            "lng": -118.2847594
+                        }, 
+                        "southwest": {
+                            "lat": 33.71089585, 
+                            "lng": -118.2868598
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "2033411d7f79d43e5d1a2e8827fcdeb33d6f050f", 
+                "name": "Cabrillo Marine Aquarium", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2988, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/114111498647378579052/photos\">Joseph Yeung</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAJyl9MQRpAxlBgKqOxXUfNmOIYYIf8ddjMHtn3q3odkDOcxjWBZNwtyljAG9ppBRc4bedz7Pv9ch_99_bBj_oXyM2N4FdBI85RtaNthOLJQG6txNNt4AzKT6koc11synlRdUOZVJqWSLwQkI5G1acM2P_iP50SGEQ7AFsXQ9ENrdEhDQ1bKP-2VIPKqWqjiChvf3GhRY13H01vsq65xRS5lnRjfDrFC5qg", 
+                        "width": 5312
+                    }
+                ], 
+                "place_id": "ChIJOxUO5sI33YARcEAaUsmzICQ", 
+                "rating": 4.5, 
+                "reference": "CmRRAAAA9tYMy08hg1eG8Zuf-rKa_qBBt4VBY5ARKWIOdBBasQLD3mXHnWgPKYrHhjQJYiiid3Zy-cIxs7cRnKoRc3sRfh45T_cWLbtHH4a8O1SQ08QxZI45TaIjL5Ky8MZ-ThNzEhAKS9ne53e5YGN0p83BDf0PGhQdCf26XssDHU6Z7GL6s2BOaUO7Vw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "3720 Stephen M White Drive, San Pedro"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.010405, 
+                        "lng": -118.4960197
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.01048270000001, 
+                            "lng": -118.4958508
+                        }, 
+                        "southwest": {
+                            "lat": 34.01037909999999, 
+                            "lng": -118.496076
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "739400c9390ebc36e12e3fa1faeda28842ddf987", 
+                "name": "Santa Monica Pier Aquarium", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1200, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/112365061086037574170/photos\">Youngtae Ko</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAADcX3ZdP5VcXhlfq8Pc1NybWa0P3GwwBfK9rh6vWWm8bhdVrbBotBD1Fl3K1Eon_bgouN2jvnslXJIqmLwRFCXlcMvAHArI1scos48BmhSPGmcJp75qeEFbqvgi38Bmn_aHQDyh3KEPfSgg9hCc4bP_qIzFeZFbrN7-n-vIZXxaDEhAawvXb3sis2jJineM2furmGhSU0DZrsO7kkvW4v9ztZHv36YFZjg", 
+                        "width": 1600
+                    }
+                ], 
+                "place_id": "ChIJ48PDz9CkwoARrPNe8Q1IYPQ", 
+                "rating": 4.3, 
+                "reference": "CmRSAAAAINGzAqcaz4GIySonJKTmNFojqREtWX8EY8Al7boz9OAYqo8AntPsIdewHLbrEOUHTAvOgQcJBdugkTzWF-EOT1dT-h5Bab_uXaNtEFpYeAv7rFweq9QAoyh_RAVHnSw-EhAHd5yHnKzxUgnsnk4Cvr7mGhRwTQVmGAaIyxf4CzyjteNJc6k3jA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "1600 Ocean Front Walk, Santa Monica"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.8517724, 
+                        "lng": -118.3971869
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.8518723, 
+                            "lng": -118.3969193
+                        }, 
+                        "southwest": {
+                            "lat": 33.8517391, 
+                            "lng": -118.3972761
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "4717942debe056cd7dbc18391d02fcd7ba42855c", 
+                "name": "The SEA Lab", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1254, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/104177452866455009797/photos\">The SEA Lab</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAKWS2yhdAOnWPK8j9PNhnWO1m0cwpfhuHFHJWox-H_KbLHpO8x18W76gs4xCiewl3ch2UMgTr7KS4o_Y8hkjDbC0OnuFov-QF2ZMgzX5HBSCkoJhzqrcis48-2jUhVL3xKUqZVdoAy874D9SqxDIRGt6IfFvi-ju1CCLY1MK3KeJEhCrGSCNvj6fT7DwPuFml2F9GhTH2M3kPirUbhkrTyxd0FTMzNpLvQ", 
+                        "width": 1821
+                    }
+                ], 
+                "place_id": "ChIJv9hSvGOzwoARd3FHBV5VcZ4", 
+                "rating": 4.7, 
+                "reference": "CmRSAAAA9xh5qXvYGNZP-vuYnYovomOp4omJX8NYjveyajMK1zWcq41kQ8COPROJWvVQSdRfYJtTZasScl3KfCO3ooR_EhtA5HEPZKUPgcOxgudN2yThWZiUMoI7-ZimGmZN5IefEhB4BkVDIqGEcc8d3w_VZv1vGhQoVZ9684sEhtoA76uNfQbfQbmGJg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "1021 North Harbor Drive, Redondo Beach"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0385367, 
+                        "lng": -118.4367397
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.03869854999999, 
+                            "lng": -118.4364634
+                        }, 
+                        "southwest": {
+                            "lat": 34.03848275, 
+                            "lng": -118.4368318
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "9488ee9e0d80dfd07cf508693d70d4ab78efd21c", 
+                "name": "Living Art Aquatic Design Inc.", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 824, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/114816609349029586186/photos\">Living Art Aquatic Design Inc.</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAABMwOVziOGrQ7N_t1aWupuyLJisEuoDgiJJ3MRk_tl-nMZGQ42_vj_sp-3GY6BqZtjFJJhiKQy-ayXVkqSUI-3UympWYTflb-BOOgxIwmUsjxEHP4AGL7l2q8G45j9RHfHtfKNGmTa-Sc0a_EZpDAM3jk06ET9qgaNwTskEXelpLEhCBfQiU9UB_F8e7yZUg1tfNGhTluplN728LM2xA7ynLStXm8t6obQ", 
+                        "width": 824
+                    }
+                ], 
+                "place_id": "ChIJuQmWJ3a6woARF4kfbKAPcS8", 
+                "rating": 5, 
+                "reference": "CmRRAAAAznf5CT7W_uqm08dJg_QjMqP6z4sn93MP3L4law9Ctb4KXomznZ0LIwD8dBwdIzxmWFERtfuSo5FqFq84SB8FsA2jTdr6oFYcb-JGu7pHF7sjCu16TlsuTuxHltYHVDb7EhCLMG9naZ0pt4L2EuXFhhE9GhQ4_OVeshW0o-9tXIUlwqLgJOwLOA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "general_contractor", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "2301 South Sepulveda Boulevard, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.8833733, 
+                        "lng": -118.4145988
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.8834037, 
+                            "lng": -118.414516
+                        }, 
+                        "southwest": {
+                            "lat": 33.8832821, 
+                            "lng": -118.4146264
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "2cd13d522dbf782e40a2fbbab172b293b5fcdc60", 
+                "name": "Roundhouse Aquarium", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2448, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/117117508268943628485/photos\">Kelly Choi</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAOG2lnRrbWN_GU24CZL5-ch6RPXtoSnWg5ylXsEras6ZNCGdQgx8L9jkqpixMrMaLa93DsUdkME-xabXEXPgv2L2gp4b74iLn31Mb9yU669W0UOQvsG48tCc_J-4s1TOW3u78qFGf8BeWTzEhdVS8WrGCaukOkk1Um9fVCewkd7kEhCdY3IkUH8aXT5axvXoEhrYGhS_2EPzr_E1k6iSu1ArDZxHDmclvQ", 
+                        "width": 3264
+                    }
+                ], 
+                "place_id": "ChIJ29BIfomzwoARhXF-mx4mXb4", 
+                "rating": 4.3, 
+                "reference": "CmRSAAAAAwfABB8jOUyGsQUceeU8LiRzARzQ2_ypPFR6MIIOAJo97k2NekMq07l1Zof7ctvtagsYfqqFnTVJ2py36IC_3pRb0UFEnHcuXA2ufjURXeYDco6gArNjhAz3l9mF4XgqEhAnX48LvjGCYHvU7qjTbuoTGhQHjaxGwwqmv8WFCx7_dFTrl589Ow", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "Manhattan Beach Pier, Manhattan Beach"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0073777, 
+                        "lng": -117.9511705
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.00742414999999, 
+                            "lng": -117.95115
+                        }, 
+                        "southwest": {
+                            "lat": 34.00723835000002, 
+                            "lng": -117.951232
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "b949428eae6c5d31e6f1e99fd065a774b4530758", 
+                "name": "Eshopps", 
+                "photos": [
+                    {
+                        "height": 1836, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/114509750863653502695/photos\">Luis Rodriguez</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAJfUftSyD1Nd4DL4xdsPtb3EdU7P_QrwA8ovEqwhESfaFc0Fi_695HcpaRw8Pez6zxirC-9_F2n7_7uk-EuB1iLE3fEUJZhqjk3E7fvkBWvRKR1eh-sf6Ds8U7MDlLxi5dcANb-boiT8UL_ZY0rGZGeG8sDb-EPksMxyrc11txhXEhDDMkfyFldb23VlLv6qYe3XGhTiyJUxX8QG_-bmKixjaCYc2lPCrQ", 
+                        "width": 3264
+                    }
+                ], 
+                "place_id": "ChIJDVKUMuLWwoARQkMnx_fldPY", 
+                "rating": 4.3, 
+                "reference": "CmRSAAAAP_Ytt8c9Ihv5Z9moYqkfIFUI3VGtQ-3g7TQsusEM0EZYUlHGbRymYSzAkDoAQhYUavsCXpAOpXTOccyWpgu_HYBDjSSezIVO-BUv3zrb0hqUvR86Bjyh_poFk7trw8P1EhBRVoWciicFwAwfsdQKBI2-GhSmfdxrFEsO2k_pdb4vGdh115XBjw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "16285 Gale Avenue, City of Industry"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.898005, 
+                        "lng": -118.352191
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.898005, 
+                            "lng": -118.3520807
+                        }, 
+                        "southwest": {
+                            "lat": 33.898005, 
+                            "lng": -118.3525219
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png", 
+                "id": "00ade6f677179f6214927b8e248c2a545809af9b", 
+                "name": "Lotus Aquarium", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2048, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/107514846211778433143/photos\">Lotus Aquarium</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAH5iz5XjrHv4s3rFv_-cdUJCBZU3pAM_JJDKElbfzGRi4KJFpqFjCTIgXEaeDgap1SIEqx2kR25Sa4ZZyXZIxgapKzg_54yGqOpSgK8tP6C98R05di5zwlIubCpMQm_Z9Ji-75IWivu-tDmQgFEZy9X2KEhj4_x0ooaQAw5O00YsEhDoYKJYbqan7K3B3D3HyDXJGhTTMSMMBHacx-h6Ozf-DG9NKdW06g", 
+                        "width": 2048
+                    }
+                ], 
+                "place_id": "ChIJw4vVCDa0woARZdwIoiVMmM8", 
+                "rating": 4.8, 
+                "reference": "CmRSAAAADQIzE27TeI2jFd-XfBYNeoTFqX0E_9Kq_GxNzfcO9sWfkuugWQfgRdjUtBT0--ZL_hJU2nTvJAw-3X76ti_TSgaRyLlf46gh5QeVpzRciJpaFzejuiwGUcfsM_OehqZcEhDIfgbvE461bZdMCq4FGgbJGhSbGkzlpK9S8-73v4Wgvgr0Qhj4mA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "pet_store", 
+                    "store", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "14704 Hawthorne Boulevard, Lawndale"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0905316, 
+                        "lng": -118.3173257
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.0908439, 
+                            "lng": -118.3170663
+                        }, 
+                        "southwest": {
+                            "lat": 34.0904275, 
+                            "lng": -118.3181039
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "291336308088d9fbf9fd56a8a19d8feafd7fa05a", 
+                "name": "Yo Aquarium", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 3264, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/102096062961373341557/photos\">Dylan Townsend</a>"
+                        ], 
+                        "photo_reference": "CoQBcwAAAIk2c1Aa4SgDg9k78zdADI8_cnjUPWxgpb9EE3G7uQDyZd0QgRvmLRwtd-jwKQmyq1xaEdYhepU4up1oyrwJ4It3EsD__LCI8yPOwPs4epOYLLz0UDHOhdRW8UjN7s5fIifp_9x_VsdAVpK8MuK_UBK2wb6Gyhx4P5aTiAMm45CpEhBF5B6EoxeGmvbfwAIK6gQBGhROu3RuTtP_xJdPu2z2_CD4Sg2Leg", 
+                        "width": 1836
+                    }
+                ], 
+                "place_id": "ChIJETmKU0u_woARQq1yMeaDbnk", 
+                "rating": 4.3, 
+                "reference": "CmRRAAAABcfKvhTQYJ3LNXcwXxtuK1Ijj6os4miVvgErpclrdgx6c-5uQ_fxC3ixMVeDN112MQAPF68J2qLpeMdLrZJQz3n2tmK5Qi2Aw7nxLC_WUH7v7CvhA6rkF8IPKVJWyuaoEhA5D87hH9RaGIhhfFDu7Nt4GhQJ4cQeY7l88b1Do1SebTkFU2W32w", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "pet_store", 
+                    "store", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "5846 California Route 2, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.9552723, 
+                        "lng": -118.3748283
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.95527285, 
+                            "lng": -118.37458545
+                        }, 
+                        "southwest": {
+                            "lat": 33.95527065, 
+                            "lng": -118.37555685
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "673f94bb3508aaa832fbe20a44c07ef54e593f5e", 
+                "name": "Tideline Inc", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1133, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/110753201690236980817/photos\">Tideline Inc</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAG9DBnFmhHHvNOAlZljnPljyD_zHz2zr4vKDEvfjB4k15Pq_s1a2ifEPZvUKBtSM6zbBo1eSUK9jTOzVb_vgALakWAwApc15tFOM1eTX2EARbLlHpLe2SEGzcZoRyFghuyMJh6At4T-DxdA1W4zTkAIqxUBOFQ4yUkeX21SiM_sEEhDC9I4R-II4RyKuL8GbQGWVGhQbZ-jaHZWN5soXk9dLj5f0VwpIfA", 
+                        "width": 1129
+                    }
+                ], 
+                "place_id": "ChIJtzFb0CC3woARrWnI1PgZhtA", 
+                "reference": "CmRSAAAAjb5IcOQHp98M24YesdcY7rsYIG-1uJj8BgwhPCqZG0Qy3iVUYm3BuvsiJGKXzTFSR2XXQ0hsL1Eb6U-mUK528-G3tkh9_oCZ8Xnc_54xQmND8e2BOLEWDkFMcGE1KA-1EhBA3RzI9YPgZ0vurykKC1ZEGhQskG-TL03aZDG-oAdaa8ay0G7iLA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "640 Isis Avenue, Inglewood"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.20841100000001, 
+                        "lng": -118.208366
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.20850840000001, 
+                            "lng": -118.20832695
+                        }, 
+                        "southwest": {
+                            "lat": 34.20811879999999, 
+                            "lng": -118.20848315
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png", 
+                "id": "410067e2065ff143710c51161a2e8c84ead4afe8", 
+                "name": "SPS Coral Store", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1000, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/101134741412700895568/photos\">Aaron Corbett</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAJ__uD60yrZg0h3fNxJXtBndwKspe_tiiWivZORoPWucQQUdr4ctt1r7q2H3G8pmYeaGwbu5EDlW_1cn8US9hR9DoNjaipGq3jy4ANB6Cmtqkkw6PaDVs1-frTwFe_SnFrPoBuPBuOQdxrqMEE41MgGXR-WT1_cjg-mG0Ni4DNz2EhDd2nKhCAhuDOB5ZNUEvi51GhStJVAn7c_ABbaFNNuEZCYEcu-TrQ", 
+                        "width": 1504
+                    }
+                ], 
+                "place_id": "ChIJ9cAF4wyTwoARct_J_TWQGqQ", 
+                "rating": 4.2, 
+                "reference": "CmRSAAAA4zqJ5phyzsXk842U06PVq5UPsd5sXSLlqXJazI5pEV9RaSyR6INMIZnFp72MNjrvb3HshYfrxwxNtM4CCMbzykH1QoZa8PQXtoUtdR9PCVO9-KrGC5kyuKq0Orhys6vUEhACLtCLK9YDMBLIpl_J6UQ9GhTyuB1u777DU9DMMuDWbfkMIfga8Q", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "pet_store", 
+                    "store", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "1375 Foothill Boulevard, La Ca\u00f1ada Flintridge"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.896847, 
+                        "lng": -118.281915
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.89685465, 
+                            "lng": -118.2812698
+                        }, 
+                        "southwest": {
+                            "lat": 33.89682405, 
+                            "lng": -118.2838506
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "d643b9e8c38b2c6a1fbc85579eceac1bea5b3a79", 
+                "name": "Hamilton Technology Aquarium Supplies", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 360, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/117532795229951623251/photos\">Hamilton Technology Aquarium Supplies</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAOdQM3z_wQTXtDsxL-9lYVyDyO4jHpr12J6wrtZ93w5yUq-8YZU_cZ_47EnoNiAHGLyBIxL9Lq19z0_83S-E8Tq6JzL9cmw3LLwBDtPNzg_R99TvAvwp-gaTC_yfL7KxZ3dO9lFjqya17sCxaf-dt91LxakOPBqJg5PzmiviWBakEhD0eXOVOuauKcOpBMW3-AobGhR78CS41RB1tWAAem4abJiy3PBlXA", 
+                        "width": 1138
+                    }
+                ], 
+                "place_id": "ChIJA-2Yy2PKwoARXPZU2it4yHw", 
+                "reference": "CmRRAAAA35xx2Q4FFik111Wi-6EKR2ryBqG8wVcB8INfEJflrhJrd9Jj0-U6K62bKTDBMk_QU5e64Y3DY7ntf08aE4Ngq7uzKLno2z_uVDhxfs736zEVGu9IIuCRl8oPzZg5LQyyEhDHLMbiUFhyMsFep7nJrKFrGhRISVzWMJZyjPeLz2cW2MxYSf_N5w", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "pet_store", 
+                    "home_goods_store", 
+                    "store", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "14900 South Figueroa Street, Gardena"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.85135489999999, 
+                        "lng": -118.3961368
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.85145109999998, 
+                            "lng": -118.3958844
+                        }, 
+                        "southwest": {
+                            "lat": 33.85106630000001, 
+                            "lng": -118.396894
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "a541f933cd20e592010e24adf28ed03715e59c95", 
+                "name": "AES Redondo Beach LLC", 
+                "photos": [
+                    {
+                        "height": 1620, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/114956520089540282638/photos\">SUYATIM BAGAS CELENG</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAGnnZJuzKjMhyJfktF9qZ9ydzv0vzKpliO0MooLElEDX96nXgmkdiZH6NRxngKD9K79LDAOzqK4Zmlk42iGRVJWCOUpMRDI43z92_sjab2H5dcrxwkg9wpLvaeOaV7Yhh7hhytrmqRECx-XY2AOhL62nwbD3ZVbvzucc_gellEvQEhBvJv2s9FN3bznsli9iaBGWGhRe6T8elYW6RNHDTD1qVGt_VOCuKg", 
+                        "width": 2335
+                    }
+                ], 
+                "place_id": "ChIJo1dNdGGzwoAR4LlunJpfL9o", 
+                "rating": 3.7, 
+                "reference": "CmRSAAAALETdWAOkt-VOKT14OGz-q5WM1zp0pDXguL9ZSl7uDQK2lzyxW3jumYPkvRhDqzI6lfbzmTdNRd9O8zunJXIt-Ve5Wrn75rESjHaAw_-x1pL6sGXf2SvFp_Pf4QpovJjnEhCBpfH27HKsO0qVzXoMhQpgGhTR3jVDIjSUVbCbr5Z02RD6kf32Bw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "1100 North Harbor Drive, Redondo Beach"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.8842185, 
+                        "lng": -118.0469831
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.88422195, 
+                            "lng": -118.04638925
+                        }, 
+                        "southwest": {
+                            "lat": 33.88421735, 
+                            "lng": -118.04718105
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "ccdf101b05dac544477242bfc4bc405b874f9d96", 
+                "name": "Lifegard Aquatics", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1541, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/107913087121507600958/photos\">Lifegard Aquatics</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAABCnlciSaHNqubMEpdSBZo_sThuNETsII4NbHjM5KLoarK2Z3Y8X6jpuAOvpNzd8Ja_Tu2FjDYCzjefdU3Ph9RHdOr3mxbXNaHUJQd09Rqxk3Q2Pp6ZDpNYpxOxBERaV5btclRb_nyTIevWdZjwUQglaBP8wGr5cdz0vGwSYH-EJEhAOuuMmaRI5X_cuRd6NZTePGhQ3_h1Qr5wJI1awvUqj2d9WkOuO8Q", 
+                        "width": 1541
+                    }
+                ], 
+                "place_id": "ChIJvXTgloks3YARvuTZ9hniVrI", 
+                "rating": 5, 
+                "reference": "CmRSAAAAfRkpTHVlL1BIVOMIfrGVFimLJdKQfoInI3HzDLTXXzXDvITUPbC9w_L6tf3J-IU6-5pb62RXN1t3PwMCptnMYDZMCSy6LV5uoXFfPtNOg7IhzVQZmhzLk1PhyHv6RtdPEhDtSSexnkdBXq3uB9pNSlqyGhS6KjlDXIDejH2O-GsC_ZI-7Pz0gQ", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "16301 Carmenita Road, Cerritos"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0686137, 
+                        "lng": -118.274045
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.06873365, 
+                            "lng": -118.27396895
+                        }, 
+                        "southwest": {
+                            "lat": 34.06825385, 
+                            "lng": -118.27427315
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "adc81ad0416a092a6e1fc2530829157c8099e34c", 
+                "name": "Aquarium Fish Magazine", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "place_id": "ChIJAeNkGg3HwoARk3EE73Z3dW0", 
+                "reference": "CmRRAAAA7KzevxerGZETCwC3yv7btPsRaDCB3XMJ3zMDkRXhl9zhym99SrnXpXmLtgQ_3l4wYfsxwXTuqY6NbTsXjuLU3KCoHTTjOTgue0m6APLa7bCEyTe6POEcKqIXi4hS0zBbEhA_K8pOpIOK8OlU0VaeWPOhGhQxqv3zCNlY5w7a4cUm5nIEeIl8HA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "pet_store", 
+                    "store", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "2401 Beverly Boulevard, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.211066, 
+                        "lng": -118.4774555
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.21106624999999, 
+                            "lng": -118.4769428
+                        }, 
+                        "southwest": {
+                            "lat": 34.21106524999999, 
+                            "lng": -118.4776264
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png", 
+                "id": "fb1f4f20a6808f03c5beea3212a9a71195b94e0f", 
+                "name": "Reef Creations", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 873, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/116335413941130683612/photos\">Reef Creations</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAKxARkJF76WZQF_gmQnYGpUHHF7pCK3LeGKmUgWFGIKwKbVf1BVbaV2UTLCOm97A4vHDUJF1jMbh-BbGxHBC12iCSh3-4c9CovdNb3lxRiFo1qU65H9ywJ-gcJZ6ql3sdVnvFqqzNMVot2UrB3NybyS3ixyvcVgfEGF0YAkzrF7YEhCxx5aidP7wakYpFgqRDfl_GhQvq4u4NfGppe1WUHUPVCx--lBTFQ", 
+                        "width": 1368
+                    }
+                ], 
+                "place_id": "ChIJA5b6U1KXwoARWRQMdHvyC80", 
+                "rating": 4, 
+                "reference": "CmRSAAAAY3V8bZ5G7Vde1I3WnCG63QOZmO1usUbK5_k-p-oz3qRbYiOvIqA2GfSpV5rrVutEvKppAqUTcSxw0KjaNtilgiCH_jW5xtaQs0ME3J1zwdVRf1Wuw0zJgRMw6IfVuMk_EhBwUZ-P25HvDGtznvnxp5QvGhS3IGNbi0xa_otZixODy058edI9dg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "pet_store", 
+                    "store", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "7723 Densmore Avenue, Van Nuys"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.9434614, 
+                        "lng": -118.3381908
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.9437266, 
+                            "lng": -118.33818855
+                        }, 
+                        "southwest": {
+                            "lat": 33.94337299999999, 
+                            "lng": -118.33819155
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "c8ce722575a9ba06274a69a5f3268f0cde7722dd", 
+                "name": "Not Just Fish", 
+                "photos": [
+                    {
+                        "height": 3264, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/115504885837300923225/photos\">Angel Today</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAICQmAxdpfySwmqbrvOSVdH-uw8pb2bNaB7_foi-npclaFFCvxpoxBQnb0WYv3jMpvC-VV_o5f0FMVc-sQfrjuEHG61qmt_-fl98OK0bKCrvI2nvl_OAG3wKUXGyHO8URh565nuHucR_gCrQ9nhAjTsCJpC_qnYX02QgiOPHAiYCEhBpibb5qqQM6XA6e3YXAUV9GhRAQ7cT9I5N6rHENU3BgEs_D8lgrw", 
+                        "width": 2448
+                    }
+                ], 
+                "place_id": "ChIJYW7apF22woARuOG_8ikwOJ8", 
+                "reference": "CmRSAAAAwo8gm3j79wynrvHGkfuJI6OX5u8wh5zJfWaguXdvtN14AMpTou2zlfXvkN7wGNTgOrBmwO0I8LTuN94fdyTLzKXFbpfrkaTNYEtCsfVqsfraYN-a49OknDbC5ZYlWjj8EhBqqXJAyYTOxx3oeLVfbFFAGhTBJWJXBJBpPK7pnQYvRqIyDIgmow", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "3716 West 102nd Street, Inglewood"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.055378, 
+                        "lng": -118.1488856
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.0555761, 
+                            "lng": -118.1483165
+                        }, 
+                        "southwest": {
+                            "lat": 34.0547837, 
+                            "lng": -118.1490753
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "fda08894bc63a2cc0e1bac260b0e1c323fcc8195", 
+                "name": "Tin Tin Trading Inc.", 
+                "photos": [
+                    {
+                        "height": 1936, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/113780150113395253165/photos\">Brian 855</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAIQcLbkodaCd-fmOAF71jFHDWCHt7ktbaAzRSX9KX8rSQDfOaFKuLRyjqWFW-0VPd-Nu8-tvGrxoZHq5GdP2hJd-Hd1_3VbSz12fR8hNgjfBdHCwmNJQPZHI--cghtl9l8gJA69zklcp7iIrHhz6-O8SaZhxmu9UwybTCMyhNsfwEhBo6U7BRzY6HE5Yf3mD5SceGhQDfeBhnaJPCxPBweVTg2hwPo0_Rw", 
+                        "width": 2592
+                    }
+                ], 
+                "place_id": "ChIJHb438WTFwoARQu1dzBYT3wk", 
+                "reference": "CmRRAAAAsucyLFeftUKF9cQVkkqagpzvw9wqrg_0bICZeZzBuLFOVVtU3kyi8ooEUxC8G35jmn6_xV4tLSQwbPN1BccQP5x5if693r_zx1sMQnNNM-xFPynB0WjUKmYc2eGeuF2NEhArMVrogIZvHLr1QSwWE1aRGhQLdG91tsqG9YRNxamu4LLRJzE1Uw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "601 Monterey Pass Road, Monterey Park"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.7977799, 
+                        "lng": -118.154005
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.79779575, 
+                            "lng": -118.15372125
+                        }, 
+                        "southwest": {
+                            "lat": 33.79773235, 
+                            "lng": -118.15485625
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "642af6839d8a38a0e58af77eb303b576ffd5c217", 
+                "name": "Sunset Marine Labs LLC", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1310, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/118267205074673763542/photos\">Sunset Marine Labs LLC</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAJKiwwPXuHJ_x3dfdK-xslA6v40oKdJok6MTzI6dF3CeV2SfIaOF3poG-IbyfnpwYyUzAkgYAaLTQVImqMNqncFekvpOMVhmFYJltCw-w-6VLvWZQNyzAZc2BnF6eV2f8MkVpq2lMwsWLfi3f4vsyGPLM6G2lmz5TU6C6hJTe690EhAwhlXlTM2d9U988iEAkkn7GhT3Yzar3lNpOvB5HeAgTb8OQOLczg", 
+                        "width": 1312
+                    }
+                ], 
+                "place_id": "ChIJ-XNlXoEx3YAR7AEz3y8cl6U", 
+                "reference": "CmRSAAAAXtQvyhpCMpLuxDQ73HhkmGI4pWi2RQlqbvmvLyNzsevhaUUFQCf7tG7nVQNxjloOIi4WQnbfLazP33HrUQ_Z5Fpe1-H7ahKNm6xHcljr_dzBM7dmnqaxqqr_J0xE8oXEEhCJqRBwoVEWxN0vdSG67s7IGhQGTmIlt3dKL2Zn71Hb4zaBwJ0eSA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "2248 Obispo Avenue Ste 206, Signal Hill"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.03979770000001, 
+                        "lng": -118.6643082
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.03986545000001, 
+                            "lng": -118.66430525
+                        }, 
+                        "southwest": {
+                            "lat": 34.03959444999999, 
+                            "lng": -118.66431705
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "200f142d0c1486fa063d57f0dc53a41d1a714aa8", 
+                "name": "Malibu Aquarium", 
+                "photos": [
+                    {
+                        "height": 2988, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/118232922118585746980/photos\">stok 33rd</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAABIYeRJ1_ahIt54zuKkTkcHDu-BFnfWQUMehUacxywoBZu25EiMgZUegaMImmgn9fcLv8l8ryV4Nx38oZRzyRi4S57M8l4KriC8Y4pRhhRckCcvk3RBelMPbVpGzfhuyBlH75LpdOcClJLcdDrs7-y-uM_4KHvKuLCEQIzR6sVblEhAyedabrvLu4mfZC3LA7ak2GhStNq8Dq3M-A2UxVF0AHMDXDDzRXQ", 
+                        "width": 5312
+                    }
+                ], 
+                "place_id": "ChIJ_edBYIagwoARIw2O4Ru30Fk", 
+                "reference": "CmRRAAAAJK0ut-rOu9CPeX9ftWewGTM1-Z5nzLW73ZoyklHNcdsjkwZmpzlmupg35q_graTL_5gx4YlaKg_UbkdAvkBpm7CzY0ypKLirWErFw5Stw0lCy046sI7-eroMsQWGo_9AEhAuywI1-8rDuDU1u--1jM-FGhQUIaOOyHrVfGOJFtBBYh1htRUItw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "aquarium", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "22455 Pacific Coast Highway, Malibu"
+            }
+        ], 
+        "status": "OK"
+    }, 
+    "museum": {
+        "html_attributions": [], 
+        "next_page_token": "CoQC_gAAALoUpZ4vxYD-AQa0RZUbpFVZPxSCQe7xCYEv8Zx7v3bDT4F5HA1ZsHWI9wjftEhLaiOC3aito9NJe6Xs-yt8GzM6JDPdXBeiyKjTn183oRcywia3BJYjmE7LlSJWwyaa_9xJO82gBjtKTEtc-NW-ftoWu2FGZrCxlyLF-pVuBHiu_wjkpql62s-siydQguVGRNGiEklaaLYxeZCtqq73PCVU1ReTcGkAWcPMlp88Y8wjR3Ub0UfKZcJqBJbRHE4J1r7lL1MmUkW8NnBytk51xGTMrNmQcbNs3PX-B_wlkbt4bs3aJHCf34x1KeC30d1pLC-iKeB6dfRBxaYe1ktQBS8SECq94iU9IfSqdUQObQzzgz8aFEjPTf2R9sXgdb_zGVri7jbp4Tfr", 
+        "results": [
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.1019097, 
+                        "lng": -118.3415296
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.10209155, 
+                            "lng": -118.3415266
+                        }, 
+                        "southwest": {
+                            "lat": 34.10136415, 
+                            "lng": -118.3415306
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png", 
+                "id": "2d46e97e0a931f057d5ad815175e940aa5bcb6ed", 
+                "name": "Madame Tussauds Hollywood", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2448, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/100611534957960844256/photos\">Viviana Mora</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAEzXo3jN5rGoC2QOX9NNevm1cCF_krn3UlN7v6-3Oln0k10FKAaanDdQysBC0za_vSygtf1rFWHEaCQhyFnkeDP-2srUieuINpbqi3ONFxgStUVWaU3HWgviBO4E46CFQzlSHaMuix4HFrHOsgrWeXXGiRcT6NER8zWOvy-N7L0-EhCFKvFH1V1abkQGsDrbl4U9GhRRmebBH4be-s7iyKnO6rV8YQiLQw", 
+                        "width": 3264
+                    }
+                ], 
+                "place_id": "ChIJlaOcbiG_woARZMl0UJaNYAc", 
+                "rating": 4.4, 
+                "reference": "CmRRAAAAJ2bJYUNtCfK-pMsv_WFVCTdC24cXDC7IgizlBvFnCG_ECJYIj9QPteleNJzn2ouTAT3cOVznr9HLJY0i3CYbOJPvuu4QtKPhUKE5iFaYS8kHmqNksb4Mhxtzianq1WyNEhD_2so06_k6wibVPHHhC5MqGhQU8T82wJqC9_XNYJ2Y_5jCkyUbTw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "6933 Hollywood Boulevard, Hollywood"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.101082, 
+                        "lng": -118.3383066
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.10109, 
+                            "lng": -118.33809915
+                        }, 
+                        "southwest": {
+                            "lat": 34.10105799999999, 
+                            "lng": -118.33892895
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "985ad545b81a1de6321e4ebeed4d15476e413820", 
+                "name": "The Hollywood Museum", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 540, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/116913149955854856809/photos\">The Hollywood Museum</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAABYo7Lq2xbOWt13PclYO3A0uFzJSJ7GCs-559TCesHVmLzVuPwacLQEG0Q6yo70W35FiEzxODzWgmhiLWV2WzKXxUrCfQ9yGm2kp3_nOCgh8cG0sHmgJ37eduPbD0xyZmh_qt19tJAlm15BZdK6O_I_CqQ7HVVPGqmj9HGrRjscOEhB9w12FhQ7LE0F-qbjEJg1dGhRCAsIrfTOo1dUFrZ-jAlQM_HyWWQ", 
+                        "width": 720
+                    }
+                ], 
+                "place_id": "ChIJa1R_jiO_woARVjAA78swG_g", 
+                "rating": 4.2, 
+                "reference": "CmRSAAAA9qki-gC8TnwVe_u8nDf0wObkaBWtup8Nrc3m0U4Y8UDUZzJC6qK5Nvr3C33DsDPjNArZ92xQgFzl-x3_xSw42jE1PbdriE3VIyzOXolASXLjdxX7VJBngn1xV1LNe0IcEhAbgzRjkGYxsHzKtBm6QMIuGhSKqHaXLvvj7PgyT-CXojgXA16DeA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "1660 Highland Avenue, Hollywood"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0449079, 
+                        "lng": -118.2647248
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.045095, 
+                            "lng": -118.26430075
+                        }, 
+                        "southwest": {
+                            "lat": 34.04434659999999, 
+                            "lng": -118.26486615
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png", 
+                "id": "4a53ad8c3127dea6b097436cc3c1a04dbe29094a", 
+                "name": "GRAMMY Museum at L.A. LIVE", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1365, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/113513734129759858129/photos\">GRAMMY Museum at L.A. LIVE</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAPPmD4GMW0XLjtRic7FIhi2YTjf3y7a_oRdiGe1sgiJUkEIOc7OlwkacVxbzJ3qeiV82279rO4fa9PMMeChzXz6wZqiOg5GwtHZCmkvBFl4CYeep9d919Rlqfx0de28w5uwH7Ka_YPOkZrKTHDig6VmkNCKHt1kgL-reJUKMDO3hEhBU_c7zMOT7Rit33dCWWZknGhShW9JGlqoyxyOlZDvqKAtuOIbtAA", 
+                        "width": 1368
+                    }
+                ], 
+                "place_id": "ChIJG5wBgrfHwoAR9hEdmF4WsH4", 
+                "rating": 4.2, 
+                "reference": "CmRRAAAAyPWUR1UX6i97E4HHGRXfxL7GrgWLAiv9Wg5aju0a-x1aHmvox96ECxoonS5oNBR93mClTI3cmZN71Aj109UHwvd482HESOcGhRbRIYpvEXQyIW01YvG0AZeCYZhEVb-xEhAXmFnETQ_Wty6ciAtLfSRKGhR_gCG8UFHa7_NeFS-rnhiossev-w", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "800 West Olympic Boulevard A245, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0639323, 
+                        "lng": -118.3592293
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.0648704, 
+                            "lng": -118.35922095
+                        }, 
+                        "southwest": {
+                            "lat": 34.0636196, 
+                            "lng": -118.35925435
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png", 
+                "id": "bbe060d5a00d7e2f982045d8a4dbd83970add950", 
+                "name": "Los Angeles County Museum of Art", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1152, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/106960633651482065586/photos\">Sandy Fischler</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAFfhu05xIo26Owp7kv_gXgqlu-vit2hKkWOLzrWG35-YuOOCj7xtvFvHTP5b_KWoEMAGbc4I2SfgoHWyrCfJmnlb8T89DNeCnyYxrS7KXT2R2LvJEHlztTt92bWBIGMzpujY7kDS5ETy4E3hAeryW39xPMZMJrlJZyxFPmf22NkKEhCOsQKoSNwGqopWFxKHNpPLGhRf_yVZEJ-GH4FTRdNyRm4CGxcsNA", 
+                        "width": 2048
+                    }
+                ], 
+                "place_id": "ChIJsXqcyjy5woARNz6sOh0ZmwA", 
+                "rating": 4.4, 
+                "reference": "ClRQAAAAEzCMz1aNAh6epSJc8_rwOvMcYr4SzFvhS7F8z1h-iRP5Q6Joeelt1ZPAG_K1_74YXMxa1o8JAcy9nAAcv7Tk3ii2FO4rtS8KzvG_JX4o2o0SEJ2O70BfSCbS-wYkD_r91i8aFMjE5hPL5Xn6e5hEr0XpKOGIKC3Y", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "art_gallery", 
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "5905 Wilshire Boulevard, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.1546295, 
+                        "lng": -118.3078381
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.15507675, 
+                            "lng": -118.3071793
+                        }, 
+                        "southwest": {
+                            "lat": 34.15328775, 
+                            "lng": -118.3098145
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "5bb2969aa2fbe9645723cfca246e695527bc646b", 
+                "name": "Travel Town Railroad", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1280, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/109225240074165825670/photos\">rob murphy</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAPHJSSWfRTqMbxQXXE0UQyKuQlN_1WhM1hWQWJRFXIBUoGngiDc4U6T0LaMi8Y_rLme4le81O_LyhCDPSEPhHMaIjwJiv8Toq_9RFHPF_8v3cYi2OUvTzfm2-Vz0JdHMt7cUO3x6Vqg8lMbr8QzLOldzsoqAOC-na2iNVY13Vi_SEhDWib_OfTbjMrMFcs7x6wESGhREQTQY4rnt3kUyF2WUQKNzhkA0bQ", 
+                        "width": 1920
+                    }
+                ], 
+                "place_id": "ChIJC_MzLfO_woARH-1FF2xPSXo", 
+                "rating": 4.5, 
+                "reference": "CmRRAAAAtTY-Gqc74JypS81K_FpWwiQ5EJD1G1EswAmYDnsyyB05GOU09Ga2ke54I8NQrciCyyT-wfHR7uFbTtab5awA_G4OsaEPNZRn-7_OnCMNi5QiQNOLsn1svamBTwBARV58EhBGLJMw_ZOLeRnuolyh4rjxGhRVWBWJpsSvks022zScD--YRDW9FQ", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "5200 Zoo Drive, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.1184341, 
+                        "lng": -118.3003935
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.11954185, 
+                            "lng": -118.3003656
+                        }, 
+                        "southwest": {
+                            "lat": 34.11806485000001, 
+                            "lng": -118.3004028
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "aaff6b83cfb253c92c5fb44737cb9ae2682acd0b", 
+                "name": "Griffith Observatory", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 3168, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/110324732867565039379/photos\">Brian Whitmer</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAJs9cTcg4hpCk2UHWg3mA7fG6qRz2a8R_JpnR6j0Q_9I1Z8hWUzqTH2kb1xoDikSdapZqIT6zLoJ8L0ymhuhlGRvyehMqNlQA9tKc3aTKRO3G5XxQONXLh8_x78DABepaXvjlVQiL3fULg9PHrVbFcx1gsx3a-BrtwnSRgtCGpECEhCdErYmgiajZygP4uNyKozvGhQI1vXShlxgNbKQv6yjMaueXnxRNg", 
+                        "width": 4752
+                    }
+                ], 
+                "place_id": "ChIJywjU6WG_woAR3NrWwrEH_3M", 
+                "rating": 4.7, 
+                "reference": "CmRRAAAA6mV3pcxNi5zZPq4FKqG-Rr1rxD-g3H05b1dZvpw5PqLSD4uSNlzr6w75s8ltHWcPe4C2LwMA0wnifg_P6wh7v3emo9l6CnAkKvqK315wQS_qqSkD0gRA4dtnoWWvFZD2EhDTIUV3ZmQFW2znixH7tN35GhRUwU__83w4ZAsLbfzjPv-vq9OFmw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "2800 East Observatory Road, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.01586530000001, 
+                        "lng": -118.2861082
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.01652575000001, 
+                            "lng": -118.2833723
+                        }, 
+                        "southwest": {
+                            "lat": 34.01388394999999, 
+                            "lng": -118.2875891
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png", 
+                "id": "7d95ceb8af356165081135d03b3f0f7a31561faf", 
+                "name": "California Science Center", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1728, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/116634797151897394363/photos\">Kokuei Y</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAABNxfusn6egNNILWC2O6SbtLRwuSOeSN01uXCpyWRsxKvpHSsFZ4f30n3TMwAZnJz2NDdbiKZlSStaVzfZ7AJ7K0ye1Mn2H2eX-09hKvaKw7X_MZ3w62Fa2dFB7sCUA_8eq54ueWVIeM3fKzgBI6FTJL4h8vk4BzaPOjxGp3g2IxEhAkXZP9-nf5FBAjcIjJRFEYGhTNp5uqkqE_a-d4iVXUm4WxhmKJZQ", 
+                        "width": 3072
+                    }
+                ], 
+                "place_id": "ChIJ21yHTgjIwoARcrUbrsffOB4", 
+                "rating": 4.7, 
+                "reference": "CmRRAAAA3jGvv1PTpeppJv03QqU19p8wpbQqzSIPr59PqDiJ6FEDaCqVDTrjIheG5-vbf63UR_kVTw_HTZsLZt0gE0G81z0MmpUqsQSHgkawRQDNZu6ChSKw5Ni-6wLgVjTQLJaDEhAd1nDvgGRRClhPuCoYHG4gGhSFSR1ut9UY8pMChUbeiIEVAk-lBA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "movie_theater", 
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "700 Exposition Park Drive, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0780358, 
+                        "lng": -118.4740954
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.09385345, 
+                            "lng": -118.47326335
+                        }, 
+                        "southwest": {
+                            "lat": 34.07276325000001, 
+                            "lng": -118.47659155
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png", 
+                "id": "fa3746aa58dbe6b08524746937b2b1c68e09c3a0", 
+                "name": "The Getty", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2304, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/113294607675859396808/photos\">Kevin Luck</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAFRfrRB9w8TWL0LXKflJd-yYY1SrxQcDm8ajzTcpdiK6MBAICj9ddufslH9eO4gnULcpoeBq49yknklJkVyy1uhTHJNlvuJFAxDM3tNNC6acKlgzRTHxHKe-QMrE4lh-htCtGnxtZIv05BgxRuP06mM8roV8t1QOpRy_PwWxEvYdEhAjRIkVDAAlMq0WlHgAX6eUGhSvOWWHr5sqDWS5JJcXbfrF1QQ8lw", 
+                        "width": 3072
+                    }
+                ], 
+                "place_id": "ChIJbzYnQte8woARJaqqFVpKeNo", 
+                "rating": 4.7, 
+                "reference": "CmRSAAAAFXgG5hIJ1qkgm44QKxscIhYE4WCObDi3-JDFYK9mIh_QofYmm3HL7F5LEU4U7giBb_ZB6k2As4suMbZExyFQJDOtKJNTPd7XHw9ff59QRT9b8qK7927xtUpBwv7hqVd5EhBYiAPNCv_xjVjrli-zXVveGhTLX4mHoINMvQo1vU7P1KrtFWkGYg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "1200 Getty Center Drive, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.07452299999999, 
+                        "lng": -118.355691
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.07452659999999, 
+                            "lng": -118.35536865
+                        }, 
+                        "southwest": {
+                            "lat": 34.07451220000001, 
+                            "lng": -118.35665805
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png", 
+                "id": "c0430932dc3eb3a63e5a5a2fcbe74b5e8217be43", 
+                "name": "Los Angeles Museum of the Holocaust", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1069, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/111577698201308662946/photos\">Los Angeles Museum of the Holocaust</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAHgobbiyjgimm9osBA_hzVH3DmcJFZJ1hGPaxEPrGwFIsBPIkLtLojd_rVDv3f0z9bQ3BQy2mj-_Mt17OmCM4KDgZQeqYD9MZm_ZZEqq4zqvsNKlidtIZzim64iIkFjetjsqy2zpbns9raAdMYSdwlv1azvmxtP5AogZ14IbnwTtEhCqfsw1uiezPFYlcz_S-3L8GhQwhFtLT20J7hrVYdExshPPjPvyag", 
+                        "width": 1078
+                    }
+                ], 
+                "place_id": "ChIJ6Xrtay65woAR34KErVcC-zo", 
+                "rating": 4.4, 
+                "reference": "CmRRAAAAW4PRDMOcPn2anUNH3-fBes1RnjD1w9aqVsrmtgZlwq9MRKc3TDbjNt0DM62zTkENEy_7pRtkyc7S2vlmRe6LvHEJXt-b_BSJ4HvSNO9d9HfkQmaZAERBQFXRK-UbZJiQEhCVGpFWMwoJJFmnLkSJKExlGhTSCMEFSZdiY370MJ9x3jff1M5XKg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "library", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "100 The Grove Drive, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0638079, 
+                        "lng": -118.3554338
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.06548130000001, 
+                            "lng": -118.3543896
+                        }, 
+                        "southwest": {
+                            "lat": 34.0623363, 
+                            "lng": -118.3587541
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png", 
+                "id": "e2121f319856cf83875561a5887365e7d5f7fee0", 
+                "name": "La Brea Tar Pits & Museum", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1152, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/116915041441403037997/photos\">Zeke Barragan</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAMtYpQcUG1WYAvqh4yYH9_KEETM9xs8pnEYVfJzK9D7c2AO6jrvflgDih_GiL_adxro4Rd_LQSw7OFJ_Kc4uxZIeIBB74B9tZgybOGudT3nvzOrVuoM8ziLy4JtfJI2ZBIhh_jNOMu-ftRz0Tz5h9BYmRISx5RQeSHjB_pRijL0fEhBPArealTNYyxt-kkrF31XDGhQ6O-ciCNzPlhv4LFpCLT1oHoa8WA", 
+                        "width": 2048
+                    }
+                ], 
+                "place_id": "ChIJ_yD1_SK5woARmWLyCit3znQ", 
+                "rating": 4.5, 
+                "reference": "CmRRAAAAeCdSzZCD8_hFZ0P3TGcB9KeZCY4th4SMxMbW_zAOys9NJZG-YwMGMUtdl6al2Rwm9NK-SWxyZYOk3akiO6H2F1M08jH35JkQrXVloCExs1nRasFoLeX2mLL-AOBUVE8gEhB_JagWwvxQxPIVNxPGAzE-GhQRgT7eMu5ZGhepWiPEloayovu90A", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "5801 Wilshire Boulevard, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0458857, 
+                        "lng": -118.5648608
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.04783815, 
+                            "lng": -118.5636658
+                        }, 
+                        "southwest": {
+                            "lat": 34.04002835, 
+                            "lng": -118.5684458
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png", 
+                "id": "44d6d4e8a6afe5f00b99c26970bc8ab8d327505e", 
+                "name": "The Getty Villa", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2122, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/106136718804116749007/photos\">Ricardo Herrera</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAG6MRHM5STkYM5HxuZg5NrFWtkUrOczRzkWtQB506TPz3Jz8SHRJzI7cqK1D-T-Ho-84-1Kp66gyzjj_5jrAp0YN0M3zCiXEeFj6HILJntpDQ7OJt3WAWJWNvbhdP5Q6Ze590CrxstBFzP-9ZlqttuUU-cZ7zMc2vTGD6ZVxpraPEhDAf0hAjt8D62wCD-W9__LcGhRvrHteJD-EQNxjYo8OQNu_wg3rww", 
+                        "width": 3762
+                    }
+                ], 
+                "place_id": "ChIJBw1wGumjwoARsKRsr2WJ-eQ", 
+                "price_level": 2, 
+                "rating": 4.6, 
+                "reference": "CmRSAAAA-Az0EBvMroawku9ceKhGYFpJZRFoTA9eWRyHPsbs7JQ7g8E4mDVZpPDn5Q6C_g6BBfcL0R08IyDL-UsmQGM9XcS73sBvkZvjoenZ8POHCtUypag-aYZvxzXC_esoKGOaEhDShA6XKQ27LOlO_CxIJrnvGhS9PHa1z-AxipojGTmGl-q8MVarRA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "17985 Pacific Coast Highway, Pacific Palisades"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.01589179999999, 
+                        "lng": -118.2834514
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.0168188, 
+                            "lng": -118.2834427
+                        }, 
+                        "southwest": {
+                            "lat": 34.01558279999999, 
+                            "lng": -118.2834543
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png", 
+                "id": "f7c70bc384582d14b75e18b2b334c97f6c35e6be", 
+                "name": "California African American Museum", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 3120, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/112502238614808979046/photos\">Philip Suh</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAI9ZJ6TG970Qh7Pgh81KZDy4WtSPKZZIsMyBRIzmjhbSZTaKSJOQaSdqGO_s6fpzwFKPdciAW-XjEH2NahTYv0emBBv1fDy7fbYlZps8EdejuzXViDcqdSnvU22RrI-FZVu3Ne7500IRk2BIlb1KRBZ0QE0rQY2KR00U_RM5JbN8EhBHdiobyHb-UNO-kBR1QZk0GhStMLuXUkvuYrVNP42pUj1UGkI9FA", 
+                        "width": 4160
+                    }
+                ], 
+                "place_id": "ChIJkfZ_3AnIwoARTuGBq8QXyCI", 
+                "rating": 4.5, 
+                "reference": "CmRRAAAAv9Q7r_hawKKY47Hz4SIFGgxf6m_8MdLyRvtInYoiECHBAQIRPdoSLrl5u5uj6yAHutfkln8TpaYzayYeCqU69VwX41uX94OFb1B_v92K0N8PlSst8_dkReoMKoMRL9WKEhAqf8zrlcUqA86SDZ9yF77VGhQGz_fVxQD_dNiThyyFnWb4xItYBA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "600 State Drive, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0169567, 
+                        "lng": -118.2887703
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.0187069, 
+                            "lng": -118.288719
+                        }, 
+                        "southwest": {
+                            "lat": 34.0163733, 
+                            "lng": -118.2887874
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png", 
+                "id": "06e56ef1505d36f38cf63f0f702bc3fe3ce9235f", 
+                "name": "Natural History Museum of Los Angeles County", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1536, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/112554191634498422427/photos\">American Riviera Tours</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAANSnigUsSE3YEudNEGGJtXYCT-9E4kEqh_XS5tZR6ZTl1vwNVAEii30hMmo3V_zRMXbMxfKcSTLwWJ8jja-ddp7qEzQZYhbnTuPT4F0_WiLW-jWOLdxjb5I4LlmD6iaT70Cxi0G4J2InIHjLgZJ4owD7xIq_ulxQv7EqTNRSgNosEhB96h-PvjL7mfojqFAkhgjnGhR-IySbgXhNpwX7iqmSHrEztBYJvg", 
+                        "width": 2048
+                    }
+                ], 
+                "place_id": "ChIJXzARBf3HwoARJyT7uZSV-G4", 
+                "rating": 4.7, 
+                "reference": "CmRRAAAAj6PWfqGOaR7XhTVjA3U_gcMhfNE6O7cniwmWtVXsNqbzQoaWNRuMYnjn0Pa5AA93yB56Rh2eYM8Al1giLaKf08LyGN6twRtSybPIwlIOZwN8hILNyQ6bZuVfbWPYqY2lEhCXpgwFWgL8zguEvZGecuQgGhSYv34jGFUUVuWqzL0zbmDJRvTdyA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "900 Exposition Boulevard, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.1468743, 
+                        "lng": -118.1401975
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.14737364999999, 
+                            "lng": -118.1401893
+                        }, 
+                        "southwest": {
+                            "lat": 34.14670785, 
+                            "lng": -118.1402221
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png", 
+                "id": "165057b61f239201e7e2bbae6b68b14e4a755bf8", 
+                "name": "Pasadena Museum of California Art", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1371, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/110892260414656137052/photos\">Pasadena Museum of California Art</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAA9FjiiNf03ktKc-ARSyqVSokkN2o9J9Fwqe9jSbPW4PP1FZ1tQKv7kleo3P_XCbm8vBPavuQkbwASq-Ap5IhA4Tk0HlP-Svi_3SkdEvoae4vlIpTCgXJhucln3zBvUq0uMDo2tpw5zXEACRWH6SOPi_tx-gBmWn3g4mk19dQsmgEhDLIPZBR80QRHZMWo9SVmjoGhRteVw1mrVDim409Ue4vWZQrBqrEw", 
+                        "width": 1365
+                    }
+                ], 
+                "place_id": "ChIJqbcu3WjDwoARoNzyHKT9ICs", 
+                "rating": 4.1, 
+                "reference": "CmRRAAAAdAKuqO36jTjWPQ4giO_uXFB7BUqW00VYNuw4rAffHKjLiybMQf8f738E22fWIFmh68d-uc9TfgQScjI0ko5kXjl74r16LXrrA4Mo5E561eBy9yx9nVmlghErUbKEBAr2EhDh41HufNPtGJeEZd2Pz1e4GhRH7tzQI5Z1tr14xccl_Vf7VJfKcg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "490 East Union Street, Pasadena"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.1018786, 
+                        "lng": -118.321222
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.1019869, 
+                            "lng": -118.32118615
+                        }, 
+                        "southwest": {
+                            "lat": 34.10155370000001, 
+                            "lng": -118.32123395
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png", 
+                "id": "c748ed6153e23f3e2d0856dea6247a3a2671d725", 
+                "name": "Museum of Death", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 5312, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/115754134335095716047/photos\">Laurie Erik</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAAYCnqfbE3nu3Tc5rrNNDghArda3ZYInreB_xgarGdp5Et8D9loCfPXl42JxmKf-NZq3JSYvqihs840ravqMJ-TzXDmhe7d8HPH19TIKI61bH3UMv1FKEUTxNQ10j7kBt02GOMz6iwBRgpZMwfmrgazybJlsgtXnm99G75AWAv0XEhDOvjc7h99PcEjgsjWVnEAdGhQ2bC-xXD-eAbatHXW4FRratNII6Q", 
+                        "width": 2988
+                    }
+                ], 
+                "place_id": "ChIJy37Xoke_woARslPFynpSLiQ", 
+                "rating": 4.4, 
+                "reference": "CmRRAAAAzwxTGbEGTJ5xznZXPkC6WX_luQNFld1H8poy7k3gZYmNjCIhKgzZ7gXBvPJgU_IyPw8ubsE_PCDAf5OyEOMpUMIGHGXu2zkVIaOfhwaxipFht8zeCOeMc5j9MVe0FTxVEhADIM3rUCtytPD1bv1MoIv-GhQCQSCyPx4oT59IMQnC92nk6wzLBg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "6031 Hollywood Boulevard, Hollywood"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0162494, 
+                        "lng": -118.2873699
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.01668625000001, 
+                            "lng": -118.2859749
+                        }, 
+                        "southwest": {
+                            "lat": 34.01493885, 
+                            "lng": -118.2878349
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png", 
+                "id": "da404cfb69f88ebd952aeee0c485fc2da28c138a", 
+                "name": "Space Shuttle Endeavour", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2448, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/101247019620751208983/photos\">K KB</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAKruCLByR-x1n5jGfpN0alfeiYSJr2imhnFKEJ6dsm20hWnWR3TDzcZ_rOEnldkp77q5-qNglU1MHWpZZUFUlZu2LbxGyhRvaB7_wKQRaKORLcilWtdx95YvmW1tbUVg3t2nLJcgLH6-VU7s_pFJMITKbpdUnmTBNcgszD9jSmKsEhAszORKMjWN6Vw1H_cegVuzGhSuJyDcYZUre6GvJqDYJ0nJHnKSNg", 
+                        "width": 3264
+                    }
+                ], 
+                "place_id": "ChIJN2jFqeLHwoARsow_cjImohI", 
+                "rating": 4.8, 
+                "reference": "CmRRAAAAB0_yomTnUaC2r-K7TWK2RypkC7rHtptt5jmf2lV00T8Nk5gir1uen0FdIniAPl1-7HMUsz5EyEill3qgGULKN-pmnrwkQzdWPUCE142DxcTVX16fPHP1GjN9gjDu6PyqEhAsJwIgLGM2sb0qYiHwOiMhGhTScK_m--UIsjmZW12UuJNrlsQ62w", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "700 Exposition Park Drive, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.1248159, 
+                        "lng": -118.4789242
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.12487995, 
+                            "lng": -118.47824965
+                        }, 
+                        "southwest": {
+                            "lat": 34.12479455, 
+                            "lng": -118.47914905
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "ee9f2232ecf86a7044a27b7ebd98558d5abe1b00", 
+                "name": "Skirball Cultural Center", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 3456, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/118393466609453544236/photos\">Eric Greenwood</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAJbfT-M9AHkFP7BwrMAS0hywMkfSsERoq6QDoV4Hw1CcmEQV-lTTzmLXVFcDyzrYKccBd4eF7rtcqSRCqjFK09LOlc_urCntzx48A51nayz9fTYKbzIZdKlxE6o7JPEY7iJ884ddpGhS2BLpQBOlPSwVZkHHc55SAvN5BzoCDvmvEhAl_qetCZJiQ_7DJWG2dmO9GhTkWbfsnVzGBItWsAKH2U_e2GYIUw", 
+                        "width": 4608
+                    }
+                ], 
+                "place_id": "ChIJ69uHElG9woARr3iQy_Hmd50", 
+                "rating": 4.6, 
+                "reference": "CmRSAAAAMLnBr92t1DsUSKcm7mz0JDFcjbAZZBhd13QF509AkXCqC4hcykMRT7ewtuU1vpvEAZryff5Y8KcrfSAZFv9ZRf_FJXL9Uk2bMi2x1R1UuL-1mAmAHDYYtUg_F2uYGUivEhBxmby7yzuP61I646F7fNJ5GhQOlyTmLX_c4EYkiioRqpHdUxlzQw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "2701 North Sepulveda Boulevard, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.062348, 
+                        "lng": -118.3611336
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.06313595, 
+                            "lng": -118.3610981
+                        }, 
+                        "southwest": {
+                            "lat": 34.06208535, 
+                            "lng": -118.3612401
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png", 
+                "id": "72776f23f86d5a44462d3d4f2493bf2c06b3629c", 
+                "name": "Petersen Automotive Museum", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1104, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/115640835423652760261/photos\">Petersen Automotive Museum</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAIkem-4l0DslYbnd6XgDyeBO4oHpt0B-yaeKmk1o6kdchVTEpa-yB68kp1cn3UgslF1llmjoqqlobP2ahlRna2R7vJyY33ugqYJWWf1yOusa0grDBjEE-WtptbudgI2GJgeFf6u3E5TTT6iDWYUFqI9GtxRXXznfN6WUxkEB5bsnEhCOfpdDWwQbvrDWEJWfEV1TGhTuf3f2s4YiE1nqO0rQObgxnphwDw", 
+                        "width": 1082
+                    }
+                ], 
+                "place_id": "ChIJaRbaXjy5woARERNJSyktTog", 
+                "rating": 4.6, 
+                "reference": "CmRSAAAArztA8ck1g4Z2E8LR5Yzjasz6witQkOWCIW-5TB9NKuUksuafSNvLyVmVs-C6kjoV5IB1y88_-VHk0nxy8FTODiXXeyFPn89u3mAqBkw_6hfvrdH9wghr1SwWN33H392HEhCN6jM3BreOEc-pG-tiGyrsGhT0uU63-xHYRBfGwC-Q2zQJrSY3hQ", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "6060 Wilshire Boulevard, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.1013818, 
+                        "lng": -118.3385342
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.10164655, 
+                            "lng": -118.3383506
+                        }, 
+                        "southwest": {
+                            "lat": 34.10129355, 
+                            "lng": -118.3385954
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "32aa2c7d218748db0b696a77fbcd3e1aef5e85b1", 
+                "name": "Ripley's Believe It or Not! Odditorium", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 446, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/111288131762652863696/photos\">Ripley&#39;s Believe It or Not! Odditorium</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAEOqtRbD87JtZcH6U1nmi_i6QpajDVXHFicirjF8pn2At2OKO6Zkc5ONAzbpP_nun0_MpZKAx5SYRT9c5pfCqaMGQeJwDvFW0nqOptXPAWbQmSCuExZceKasOh0hUYNojkO0gMAeZYb6Y9hT4DVZ-PgvaIlUeReUr8gqPHUH__VrEhBw0n1uMJ5pV82RFKCC-O3kGhTOtmX_fZk-OJLo0OelAb1nYIhV_g", 
+                        "width": 446
+                    }
+                ], 
+                "place_id": "ChIJJed6kSO_woARSuZ41Fvi1q8", 
+                "rating": 3.9, 
+                "reference": "CmRSAAAAQ4t29olB8IeKtJuHbkbSjcAYBOu4Tv8d74mLAF2KAHzPmLoTSP1ndCfRKTOLSr_XVBnSNtcLNlyQ3ISWHrmVloUSxE1ZG8-ak2zlXfB6V591xHsEFvrXQwY2Pkesa8mbEhDabEkW0YfbEffoQrSBTPOoGhQgM61ssSGdWfkAGdgFVaGkjTl7XA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "art_gallery", 
+                    "amusement_park", 
+                    "museum", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "6780 Hollywood Boulevard, Hollywood"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0596295, 
+                        "lng": -118.4437541
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.059867, 
+                            "lng": -118.44250215
+                        }, 
+                        "southwest": {
+                            "lat": 34.058917, 
+                            "lng": -118.4446847500001
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png", 
+                "id": "c33652e7037ccb742479b9ac5d3c96556d5d3d4d", 
+                "name": "Hammer Museum", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2816, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/103435446677848757188/photos\">Andrew Kavanagh</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAANDUTETBKQyxDlW0F5VViho0dpIY-xLDLg5uTA8aIfNvGiiyznBPXFrBs6SP8-uIm0FSU-eIUVr8khQ3ztHJatZEh0m_tSGq4NViMDJqPmYO66Qx4IIdHKiOJpXgcaeSKmAVzkGsbWkuRjqoitUofEYxY6H2OIIc1DHnZlBy5mDPEhDIeDSX5eYvELTFDdy0tCh9GhSDYhcADcIrhESkc6_mZYjpOlAU4Q", 
+                        "width": 3754
+                    }
+                ], 
+                "place_id": "ChIJ9SNj34G8woARHOdEq52UX6k", 
+                "rating": 4.3, 
+                "reference": "CmRSAAAAQ_78p3uCnFhqAZ1Re9iol0bylaU6vnwtzjMHJGfEKfcOQJIenyVp9dyBbUL2Vv1uLmGnRP36d3dC1RtXesJ4pnjzAphQLK-HTKWN7EBezBiFAQFrnyzSQZsChtxEZtmwEhCynQFY2e6uS91Pfm3bs14GGhRweG_aLEyhtUWCAl7G_AR2kFWQYw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "cafe", 
+                    "book_store", 
+                    "food", 
+                    "museum", 
+                    "store", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "10899 Wilshire Boulevard, Los Angeles"
+            }
+        ], 
+        "status": "OK"
+    }, 
+    "park": {
+        "html_attributions": [], 
+        "results": [
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0979551, 
+                        "lng": -118.7314142
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.10229145, 
+                            "lng": -118.70126105
+                        }, 
+                        "southwest": {
+                            "lat": 34.09650965, 
+                            "lng": -118.7414652499999
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "1a24520e40df2bb337d2ad4303b7b62cbc862c23", 
+                "name": "Malibu Creek State Park", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1836, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/110150351958335119605/photos\">Kelly Doughty</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAANxGk95LjPVmRZdw4TgrUGqzdAGxWmk1nsAeuKaUPp_THKKykeGd3nSMOmRM5Wh4TOmdDmO_ovNgMq9mixRCf4Yxw2KbQitHb-Tu1jvg0gvctozbqFOn3kKuWzGoqtUFMPQjTSdsZSPYPoNsKW_OcLRmwAB3wa_is2fFsaabSNU7EhC-DP8Xdb6tFmRcLwPaS8nvGhQWn_xzYRmg3a8okOTWYkae6v5qNA", 
+                        "width": 3264
+                    }
+                ], 
+                "place_id": "ChIJlx3KFc0h6IARIAENDLDVp-A", 
+                "rating": 4.4, 
+                "reference": "CmRSAAAAw1zSkiiaUfIpT6GInmTJ2DgscwihSGnBtbo_6utXjKQwi8YwlYMwTuXuSkNoUCOlecTrE4ukyqjs3B1hyf__NaYiGJdtGMBhDNijnZy0E3Pb2Pf98Kv7X542oVzy6rmyEhCZVeJb857X3i6_OkHSzosDGhSvvcQEvM2zkfwN32EVFfRqFOMpsg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "1925 Las Virgenes Road, Calabasas"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.1365544, 
+                        "lng": -118.2942
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.17926335, 
+                            "lng": -118.25648635
+                        }, 
+                        "southwest": {
+                            "lat": 34.08447234999999, 
+                            "lng": -118.32683735
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "05c6ca02daa5dd710749f5a0d76de488faef8b4c", 
+                "name": "Griffith Park", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 3265, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/107602679491396895213/photos\">W. Andrew Powell</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAPwF2TROncoOku_9NO21kvpxErqLFpWHnUKnkrTofmIe5meB-cvrLWWSrpke4Gktd5qQisSJfZrllKxT63jPlRqu7R1jUi5PKG6YphV3C7fLf3Pqc-v1Y5G_4VPssEFLO4QshWFzU6npCYF-CoLpCl5PzGP6yknuTO_s6sU03_hREhCWR2eWzJ6rMxrsgzagTeo2GhRibpOgNmWjmlVRs1wytZuMcPMAnw", 
+                        "width": 4898
+                    }
+                ], 
+                "place_id": "ChIJ9590IY3AwoARquS6ie60MUc", 
+                "price_level": 0, 
+                "rating": 4.6, 
+                "reference": "CmRRAAAA_8swKr2ZfLvkuuHj_tFQw6N3t7qNO0b7esdV16DEIHmuY5H3KRlYcehE57QQ586DdVARu1eEwOQyyC9uprdNjqcV86WrktBioRmyWiDVaJn_mL9YstIV3Xcbbjak1_dcEhDiujlGFrE6NTrHMMMhoJaKGhQ7ijjHEpy0NKDH0Ck-S-MPVd-jjQ", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "4730 Crystal Springs Drive, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0484859, 
+                        "lng": -118.253279
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.0488087, 
+                            "lng": -118.25312745
+                        }, 
+                        "southwest": {
+                            "lat": 34.0483783, 
+                            "lng": -118.25373365
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "e7db857e0648593e730bf69790b0f67c9904e949", 
+                "name": "Pershing Square", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 3648, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/117519030082138912753/photos\">Chuck Alcorn</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAK38rxGCjbbNlfx67JTKWSlnmKhwXFKNs-RFxo2gpZTAcY-Wr3FgzAmq4e46K9G-DqiTQn-H713UKAhK6mWbo7X8A8nY8rs-f46kiDpsv-XUn2qL0A6EDEb4N78XMr5kneGCx3A27PUJoM8bM2p-9cW-V17IuYkWbdJg30-rTwMgEhA5x6NyAtbWM9rzL6hQbNaIGhTL8tWFk1mLCZ8nvAYDRWKMmgHMAg", 
+                        "width": 5472
+                    }
+                ], 
+                "place_id": "ChIJo83uzbTHwoARM44SW0nRITQ", 
+                "rating": 4.1, 
+                "reference": "CmRRAAAAhKf4q73k0yRoXri0IzN7AuTxXHxS8kKN3wP0y4ICqjLJPYLYv-dV59-zIoVwHEvitbmkNsCny4ZRWx2yG6ImZxbYs6qiDzkKCIevlRyTAERiXhlM9Qk_CR4UoLwOTIBaEhBN_YrTSAr9ei3QrtQTe2D9GhSZv7eKjiKlMvly90BAMSHY5lK2hg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "532 South Olive Street, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0881626, 
+                        "lng": -118.5506146
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.11753835, 
+                            "lng": -118.53122265
+                        }, 
+                        "southwest": {
+                            "lat": 34.01756575, 
+                            "lng": -118.60879045
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "85622d6cb02ae975677c5cc9f5169f440fbbe482", 
+                "name": "Topanga State Park", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 720, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/117316080560267862627/photos\">David Montes</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAABUymGpsMkgsXR_aRdfVqQLrygEw4U0R-YuLTOGfPfDbvYfG2f6hCZ6_On0QdfGXgblRd_ny3FzsDKKuN4mQKUJM2rVwYZ1kft0xRkpDD4NWdI0pYESVv2hJsK7aOW8DaObmWc8NxLWDuvsdYvN4Rxj2oZv4GJSIwpqfi6LUPhngEhDovakyLLxVcE_wQttzVQdHGhTPDS6QRstqqWGeUlMg7UvNcGCFdg", 
+                        "width": 960
+                    }
+                ], 
+                "place_id": "ChIJ80VgrkaiwoARpSSTW7vH0tM", 
+                "rating": 4.6, 
+                "reference": "CmRSAAAAL9XB4xnXOOKaMN0RuAk1LApULBmyPv1IHkuFnH5j9P9cX_AeoagcLnN8llAy3d6poWhe_eBppx0KagBwm_rNydZeIoFmJMUdValuq4MhWEdHT6-5nJllC4KGlrniHsz-EhAE8N9q6s0WjbJXDCX95XDQGhTGBTOLIiCrUjlxFafgSokfCzs5Vw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "20828 Entrada Road, Topanga"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0078314, 
+                        "lng": -118.3641631
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "2c6d7706a7eb7bfc755dca0c698ce6375249bafa", 
+                "name": "Kenneth Hahn State Recreation Area", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 3024, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/115048022494717567989/photos\">ronnie chambers</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAJtk8m5gg5bfhNTCxcKjqvUSqpXMy3LwDKvpjpmHLffHYmKu6DtgZCVovGJqG3F5SYMoiE-z47C7NjvJyeKHzt1iWsUxyMBYr6ISdWl9mK3RUe3UXE9OMohBxPMZlVjgjiq6n4o_okYeETxUHZiYAxs3Jf2L0wyDpQWxZ2oWrWTHEhDz8pxkr1f_GBxuvHa5f35eGhQ4FGaK8XWGBqjvw46yMjhrMo1XEw", 
+                        "width": 4032
+                    }
+                ], 
+                "place_id": "ChIJXZG-D8O5woAR4lzvU1SEPfE", 
+                "rating": 4.6, 
+                "reference": "CmRSAAAAOlUGCysKZWO08lwY6Vi3Mha-AQ8Y_kUsM6JeNUBC3hlzsp6PWWSPw8cPvIU_8MshR-b6C7NAli1dtvPqle8yRqlXlMO_2PcF-rJyRT-7htzeNxAXn784l5jNeoK9SigoEhBvxdBn3fA9e_lvy8ZXeJ0-GhTZ2vZmW85QMaK78_Lrqhlk0Kv6yA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "4100 S La Cienega Blvd, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0674269, 
+                        "lng": -118.2329262
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.067719, 
+                            "lng": -118.2320751
+                        }, 
+                        "southwest": {
+                            "lat": 34.06655059999999, 
+                            "lng": -118.2332099
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "ba186c8e6ca42692584a84e2046bc2a4000cba32", 
+                "name": "Los Angeles State Historic Park", 
+                "photos": [
+                    {
+                        "height": 1184, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/104908431756212890221/photos\">Jay E. Jenkins</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAIhVrolHysdy-cIwd9LRR47xquDoqZtujVwJgT6IIc6oQ6XGfTJoYeIXhsHhpw7BAmPPd7-XN_UPa2j5INihUxcHjfkN7_Kdyt2EcWjj_s-izO-OkHJP6sM3XJGdUoF6Ldh5PBsymuCuoRx5oT-s0diM8G2_EjnNYCDRjHPN4QpBEhAoUQgrvwA2jNyaOtc2QmexGhQphtqSxeCbS6RqjIEJ3bS8FYK5Sg", 
+                        "width": 2654
+                    }
+                ], 
+                "place_id": "ChIJgfk0NV7GwoAR4ja9LMYRY0s", 
+                "rating": 3.9, 
+                "reference": "CmRRAAAATUMcNlgOsCR4rPKIUgEsJI1eYYfAn3Bi7nmJQqDEGlgWobWDx7elxiK_0y18dbEjE68LaK_G25uYSiHxiEp6if7OcGfEmu-sOr7mzmYdaCIVjdrdo68SVvpyya-k7A04EhA0q5fx2Ao05zYltBek8RBuGhQomvoM85MQ_CHBdJp_KDr5GmfbyQ", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "1245 North Spring Street, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.2804756, 
+                        "lng": -118.4685668
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.2806046, 
+                            "lng": -118.4685214
+                        }, 
+                        "southwest": {
+                            "lat": 34.28011220000001, 
+                            "lng": -118.468703
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png", 
+                "id": "110f531a0769933345baf50133150f386d4a0117", 
+                "name": "Eden Memorial Park", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2988, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/104775067660711777239/photos\">Amir Samani</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAALLG6TiaBibnHreUyJYDxm5EUlbZhaxNfXNwPTRJgts_UA_8reoPJbgfqr43CA4poinb9u4cgdWZzDRE6gOS6382cw1Ea5T2OVHkROreQgUPrdd5aeMTnlVILtB-O2ENkTnW534Ad4ZJ1Na4FyzRdb3NRY3R0A8qiIUBIsWHkwxfEhAoeAQ_oMDXwDw82i3EiSH6GhS5rzh63f1qemJ7Wtk6p9_eCdaePA", 
+                        "width": 5312
+                    }
+                ], 
+                "place_id": "ChIJF-RFOhSQwoARHVVEDzusAVk", 
+                "rating": 3.5, 
+                "reference": "CmRRAAAAIpa_jiUiQYucNFkAmFvrDdzAL1HtySmBftlVudAf01JPb05xrCSVUjXo65qwXX1A5Yr-jYL4vZVbX8FGWFz97ajQzbcG3WjZ2oAQWAsJr_y3dLrtlLEEua0O-VGxj609EhB74iSl-XdDvHjyYAJuSK0cGhR6qnIjvkPznap-SpZoquYB_pEjEQ", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "cemetery", 
+                    "funeral_home", 
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "11500 Sepulveda Boulevard, Mission Hills"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.054979, 
+                        "lng": -118.5125616
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.055203, 
+                            "lng": -118.51128555
+                        }, 
+                        "southwest": {
+                            "lat": 34.05430699999999, 
+                            "lng": -118.51298695
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "f7daae4e6d4164a0fdbd2dfb069484a4bc6c23f5", 
+                "name": "Will Rogers State Historic Park", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 3024, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/111947159532904546563/photos\">Elena Roche</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAHGmhIcf6--xevIdz3efHLYZV93rY_Hx2GvlNXn1mVs3QwFOwajbuBpT4gF5bJAkK2xFXTT4N7rZi9wWNYSUxxvO6lutA_4-0mPY2XUCMmYNdH-r_CG8YqW4NvH7xGkWfr9H5__2c-lqLYf3nad5w9NRXH_AcE_RY5dDGJmbSpu5EhAlsv2IryxWZH5iLt6aurzOGhTcMCETObIJxm-oam3_is0yFQxARw", 
+                        "width": 4032
+                    }
+                ], 
+                "place_id": "ChIJjYpkBmmjwoAR2Hft4wzsld0", 
+                "rating": 4.6, 
+                "reference": "CmRSAAAAA35M34hxJwfp9PUd1Nj5ZOo6rsZOCa65N3Bp7sFbxdus7Pi_kASLlIDtH0UsAm8pCoJHyKf6aSEfKf4fSd76255FrsVIvt0fvE7ww1JUo9axcJkfh8ANaUc0ONPlqzkCEhCKLn6OuJ2GNlNCXMszOBBdGhSN9ASV-yJyHabhuPjTvzWOBsWGRw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "1501 Will Rogers State Park Road, Pacific Palisades"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.1498093, 
+                        "lng": -118.3269101
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.15076840000001, 
+                            "lng": -118.3265762
+                        }, 
+                        "southwest": {
+                            "lat": 34.1494896, 
+                            "lng": -118.3279118
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "8e701094f158541deab78c8f48a83aefe3927492", 
+                "name": "Forest Lawn - Hollywood Hills", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1363, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/117726216843145957022/photos\">Forest Lawn - Hollywood Hills</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAADmYy3FJSF8y1Y72kKPZlnO3RXYsDukhbDiSJGlRm3VnF2le-SluZXwsVG-pDFFHfuXVvfD6DfygO4cQ5xkE_0w2WWVtl9kAmaco1PtwqYMqH5VXs7Hn4JrF9OP3OLn_HAuOrwIQuNBLPKh08wQgoAkB5aFjMr8Y8rQG0y33A5OEhAgpfBZp2bDrXi7lS7oL11IGhRmfVKN2cq7l6fAryD_s8y5tghYzQ", 
+                        "width": 1366
+                    }
+                ], 
+                "place_id": "ChIJZ9ZE6cC_woARSvoAjIvQygc", 
+                "rating": 4.6, 
+                "reference": "CmRRAAAANT5Aly7jdVLHp5lDT9oiPldN1d8yOVNs8Ql2E-LhxVgoB7rMNWBhVjV9IW2Szv6wQSSRSHzURAz7QFLcGZx_rb9x2bDybFONMF2y6gL-y2d0PrOz5DyVcR0Mj877MQO4EhB6-7QsahIVPhQgcxr7f3WuGhSzyuvu1S7pxi3NTscOnzrUapu39Q", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "funeral_home", 
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "6300 Forest Lawn Drive, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.1448279, 
+                        "lng": -118.0508813
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.14587814999999, 
+                            "lng": -118.05065965
+                        }, 
+                        "southwest": {
+                            "lat": 34.14167715, 
+                            "lng": -118.05154625
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "9a4d867734428e2894d73b84c1f12b43d882e372", 
+                "name": "Los Angeles County Arboretum and Botanic Garden", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2988, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/112882800696001102089/photos\">Steve Boose</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAKqMKv2qlpI79Qk6RauLRl8qhcyQUPEA2k1PFvVSwUjG_Kh3M8D4aghi6Xuwx2ZR1DfNQuJUwJbJUNXoCcgespmHJO_Y4vxXto6fhooBrJKIZnMqv40GtrefpnwSHkZOp9lIdkbEAIx4e83tQbLMLY2URzZcKIIbxAoV0Gt92OODEhAFT8GyN_AUXVf4bixyeal3GhTazJZcgAKlqBdDaFTRDZE0-9n5xw", 
+                        "width": 5312
+                    }
+                ], 
+                "place_id": "ChIJ0-aIi5rbwoAR5T9A_sBFTGE", 
+                "rating": 4.7, 
+                "reference": "CmRRAAAAW7_dqKn2vy6RZFjACp802rXtHgrffvT0bMl-WO7-R5JWoaNUoedtWnnk-iZD-3J3AszDJsCaJcQJKdiw6wkQr44MOB5_U85Dm-vpiz_PswMH-o00IYCOWEM_X_bhVZEzEhDjJemXYFwkvwgzShUfMGqTGhSFa-53OGmU5QLjvGDOrTYXteapDg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "301 North Baldwin Avenue, Arcadia"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.176978, 
+                        "lng": -118.0970654
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.1772533, 
+                            "lng": -118.09631465
+                        }, 
+                        "southwest": {
+                            "lat": 34.17615210000001, 
+                            "lng": -118.09931765
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "4b432b87f5970c98d270b4e8635779ba53e33d5a", 
+                "name": "Eaton Canyon Nature Center", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1356, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/115414563812036873461/photos\">Ricky Liu</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAAn37IEY5j8YejBfwgw9KzXrgPX6o20X3x7_CqWFPRIyXI_qTE2XseFDJL9-YlhQjOsmDkhYurZ3xpMwIdiv8Z3i9uxVEYjRVbrfIc_mbge_4T64hCbF6NldLSj4KkUJbkilqNBAS0YIwgs5oMmTvxQy99_LChIgI_anNRi-8VGXEhBAOduA3kP2xcbjRQZ_KWh9GhRpxfWvXRNRajuESZ--mmLRj5VLsA", 
+                        "width": 2048
+                    }
+                ], 
+                "place_id": "ChIJqa-X0trcwoARDn_FAKv5zYw", 
+                "rating": 4.5, 
+                "reference": "CmRSAAAAY7uxphU3lETx1De_Ud0L_vi9UdGiuZ-2qkZ_v6bX7Ms9_FxsumQ_V1JkDvPWtp2MpKdUEzGAbQJTLpaJ4RIWLGZbMCqRWLfRpmhvIXi55OEcgnOe7Y-Jpm9m64rJk57iEhBORO4ihRzG29enciug_xm-GhT2xKqU5Er-WeK_GH6SvpWwsfgwDg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "1750 North Altadena Drive, Pasadena"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.100365, 
+                        "lng": -118.294328
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.1004073, 
+                            "lng": -118.2942379
+                        }, 
+                        "southwest": {
+                            "lat": 34.1003453, 
+                            "lng": -118.2943703
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "69737ee3dd0192737d6861d0a8c9eff915dad2f9", 
+                "name": "Barnsdall Art Park", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2952, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/104275359332174333889/photos\">Jim Jamieson</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAKPiH2HJ-u9UoubDT8W_8Z1_aXvbhhk40XF_G17xxbhxWggpmWeXq0WYmLwJQDNev3FvUVGqzSclc8nItPom5ynAtPRRQ9beZDX_6FNF0FCtyzhO4pkqpc2HREDxLaIjubqShgzrng1FQQNT6__FBZhadoTuARjq7phFQpzpNzFMEhBrTi9f_pR_DnOiR0tjxFtCGhSK1uzG1Yd3Qd2KgNlr6qAWNIm7yA", 
+                        "width": 5248
+                    }
+                ], 
+                "place_id": "ChIJUVP08avAwoARSjE9SvDAHkQ", 
+                "rating": 4.5, 
+                "reference": "CmRRAAAAzls0XJNLQNknltVuOb9k5c53FIkoTLTnuMY-_k0hCtAY2QdG_-obuIfHe7Qvw9Ng6e-YHdmgG2sqF6IElz8KyekYFD8dP2SzHXgD1gPBJK-dxLTmPzHbKlzQrXtMm4CYEhAPpjMwiyYcAkURWkg66s5sGhSmCZGp6VwrgV1ejcVUSXgfnk8dYw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "art_gallery", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "4800 Hollywood Boulevard, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.8633838, 
+                        "lng": -118.0618202
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 33.86339135, 
+                            "lng": -118.0609189
+                        }, 
+                        "southwest": {
+                            "lat": 33.86336114999999, 
+                            "lng": -118.0645241
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "c4d61d8e51fcb84fece34d4a4d315e3023d8bf54", 
+                "name": "Heritage Park", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 3024, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/110400679243913878312/photos\">Alexander Hernandez</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAEbpbhA3olFsVM3qZDxhPYu8X52W30-DkMEdzYqYudefrnneB8BuwwDFu_bB0Poo2eoDT9kUYBbDBfu_Q2z8dVY-mrirdxo-Exlyy5b3Y0CeFvZuSQdH51N5Wox8USRibpa5Ek58XLQabzNCQjcXiss8gFPXaM-qOWqURntP0_zoEhDZBbwnjz1ugnA9JRs9VgcGGhQQuyKPnTC93p107sIsC7IiTYOwqA", 
+                        "width": 4032
+                    }
+                ], 
+                "place_id": "ChIJp5g5Q1Qs3YARzV3quVseiJA", 
+                "rating": 4.7, 
+                "reference": "CmRSAAAAEY8FR0I8vY8mXo9X_0DkN--GO578tCWegue-97eYOaXtIRDQCBap8kccB7D9Hgk_vhXkI_5DKtnug2FsffWRxL3V4nz0lf74T4YVhU13RW-WhT0N0g3bKzSSi1xlf5Z0EhDLXTithwwV19qhItKsNaaTGhQBLBQwZOgKbFwJ0oxoHVQXa26Nsg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "18600 Bloomfield Avenue, Cerritos"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0755684, 
+                        "lng": -118.3544883
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.07642444999999, 
+                            "lng": -118.3544685
+                        }, 
+                        "southwest": {
+                            "lat": 34.07528305, 
+                            "lng": -118.3544949
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "5e68ac9c596806036c391fbf9b81210021190509", 
+                "name": "Pan Pacific Park Recreation Center", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 683, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/107259451420564938946/photos\">Andrew Gardiner</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAOjzIoJOfAh9EZMbSHJtqopup-EhExPFwbfwMHQMKtKhD6Oz7kL2O8cPSjGzhkI_fY2TXp4kpj3NVHOWu4UqnvFsp6Xe1pgwelCL1QbYU4YUe5Lw6GiEYSTl3jvnVUe_9_V47NQ_dvfigKTqEPqx__4ZNU-wg5TpES4Eck4XtQv8EhAJIkNkiOfsr3Hqy_5xMatRGhTczu4w13XiibSuk7dHQrrLFzy0Ag", 
+                        "width": 1024
+                    }
+                ], 
+                "place_id": "ChIJMy_Fgi65woARlcdFNGLeztU", 
+                "rating": 4.2, 
+                "reference": "CmRSAAAAfsmKHwg9ZSgySPSPaaGq2wleLEf6TcxvFXzckA7d_rczUoZLmkOUAp01C7Tu3Jc1mKPRg6LJSkVHDts-qoHd9mGN_zF-TxBFQu2kd764iQuqx5Kl0eQnFeKn_Bda2-yYEhDTAiJFJai46W9CMhfWTxw4GhT5dUY3NE4M6ZNsZ_XPrf4jIbDU7w", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "7600 Beverly Boulevard, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.09146370000001, 
+                        "lng": -118.350834
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.09180590000001, 
+                            "lng": -118.3508335
+                        }, 
+                        "southwest": {
+                            "lat": 34.0904371, 
+                            "lng": -118.3508355
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "4dc214b9d736eb1e56cfb156dc9120e1a6e11c69", 
+                "name": "Plummer Park", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1836, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/104731367217913646261/photos\">John Billings</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAADYx52-F_VuGOfadudq76EA4KfASi0RxusXT7oJ1EbSeP9zq6sglThkN2YT7CxksUAaTYR8zUb_NhmlrhW407LvSP_67aAW8wt6NFXqGr9z0UzF8EVVGlbEOa9ldRLrHrky5t4Da-8xiOgIe-iZaBPx5CyBHpovIyIl_BlCEQw9EhD76YDXUtR-DLl3UonWlC6JGhQ0FzMxt6JctK3MWzrk9YJrSVrTpg", 
+                        "width": 3264
+                    }
+                ], 
+                "place_id": "ChIJ7aDk5dm-woARC-mb9sSsnBU", 
+                "rating": 4.4, 
+                "reference": "CmRRAAAAGtM89H1FeB-GvVMBc9YLJ1k7_ZLmZMMJ_pRODAwyLwJxgrV39nO951RBnZeTZ3K_mbt_Vvk1XeCybzOlEGRlxpI2wUe2evsP9TZxd1er_ijdzgtuDqPtlx-Lo_uNs5GvEhAWKayseII9S9Jurob_3ngwGhScBK1Q8TLL4OSDP4Mxn2AMsJlwFw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "7377 California Route 2, West Hollywood"
+            }
+        ], 
+        "status": "OK"
+    }, 
+    "zoo": {
+        "html_attributions": [], 
+        "results": [
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0173207, 
+                        "lng": -118.089913
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.0177989, 
+                            "lng": -118.08947
+                        }, 
+                        "southwest": {
+                            "lat": 34.0171613, 
+                            "lng": -118.091242
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "cd20f6dc9b35e62c7fd27682ded5866a20de8998", 
+                "name": "Montebello Barnyard Zoo", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1440, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/107103313064058589919/photos\">Geo Arellano</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAANW6EnPf5NkA4xV67TgEznokD0w06pSMned7g0UHpr3Jif6ZXj_5qNoZb-3W5KQd0phIGRWuL1z4flIPjmf_4I3R0LWnzr_SuifC9sIPM93geGVlkxoH2YyN5ysvSCb0N4xVrEwOsQq-ZiJq8M5uEk15BVjH5Z8Ul_iulrEDvy3uEhC26COH9JWCs1twqtPXhOD9GhQYYTH4hXiLW2pCBe9xn0SjiZCzUA", 
+                        "width": 2560
+                    }
+                ], 
+                "place_id": "ChIJa31l9cnRwoARPHCNBi-NCtg", 
+                "rating": 3.8, 
+                "reference": "CmRSAAAAmMfvZKRKIXMj3_Xq9ZM64SfCcMUjSbSPF5rEEcgmEvVh5K0n32iO-hOSDnccQQfLODTe5fsWokrEgf6ROzEE2W-HPjqDwXUifXH3ujebd6RreJAiV6iYY6jK2NpaPTYiEhA2PDR2pKkSbaT14Gsnf9G_GhRpDWf3df0V-HJ_Cjmfj_nN5Eb6ag", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "amusement_park", 
+                    "zoo", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "600 Rea Drive, Montebello"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.465588, 
+                        "lng": -118.469254
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.46690949999999, 
+                            "lng": -118.46912485
+                        }, 
+                        "southwest": {
+                            "lat": 34.46514750000001, 
+                            "lng": -118.46964145
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "1bf3fa31058b32047f7b4c32fb2d5875e99eface", 
+                "name": "Gibbon Conservation Center", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2322, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/101077085978375110111/photos\">Lyana Curry</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAHIJoKa5-QBcVJ9TpxuBaZBTKG_MXqu9fJG_TsZdQuzeBJIMotEv2gHnL8wtrnmW00BscIrbh8HdPHMGPojhmegojxeTeC3vDpHwYVejBcsMooslKl436SB0Ung9OVFAADoy2_JbmRIkEnOvncKgbeqP-YKxH18Bn2jgjY5NXRnfEhAvpGme4evybyuuuLCXiC2nGhSjOESZTHpFNvm_5EANKFkNtwBxTw", 
+                        "width": 4128
+                    }
+                ], 
+                "place_id": "ChIJEaGprqZiwoARfy8MOd7zMRI", 
+                "rating": 4.7, 
+                "reference": "CmRRAAAAIYKlyTU3JOLR9mu0miWR6acBd3pse-nLVKy-IwFHtrJ-lcmawlnkPggBK_YwJ1qV2gbJJngJIbOP0Ykl_1lGfbMrClyC7EYH3US3WBDWwtJrUlLjTkfLscQLQMYQfj8HEhAsjqBPTtLH247XWtOgsj-SGhQIaOc1ca6I19xQNdO0lpPwAnn1tg", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "zoo", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "19100 Esguerra Road, Santa Clarita"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.992708, 
+                        "lng": -118.476435
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "731671f6747a89770a3b2a96b54db7e4e544ad16", 
+                "name": "netZoo", 
+                "place_id": "ChIJgwg7GN7GwoARMs2OxTvKOfI", 
+                "rating": 3.8, 
+                "reference": "CmRSAAAA6w3AubMkq0-BxVO5IMOMK_i7eienZGdKwKne-Sj85gOcM912qYBjx0nsxuFYt1w27ldxT2TblZJGASC6F9hBiHxHRKDsOOwHWIAqdQ47RzCcd_WLaROqWjgsTROq2A8eEhA39w5lduwFHAZSRVGncWzuGhS5U0WqBqdss3jb2GuV1EPW6pir8g", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "zoo", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "54 Thornton Ave., Venice"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.0241929, 
+                        "lng": -118.3917403
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.02425865, 
+                            "lng": -118.39168005
+                        }, 
+                        "southwest": {
+                            "lat": 34.02415845, 
+                            "lng": -118.39177185
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "3422bf8015ed051f665b177ffc71b40df67aaf03", 
+                "name": "Zoo Productions", 
+                "place_id": "ChIJSTjADYe5woARrlqU_ZoaW2I", 
+                "reference": "CmRRAAAA9HyV5zQ7M43AHNgSZQxTyDPhzhmHHaZM3XZ1zUPnhSECs4cwB9g3Qp_hKb7XPmrfAkP7G6Jd0B0CI1BlmSP8qY1LRNRPxrsXwTqI3KTjch49Q0SgtuE-eSx8Jjc9Q_0rEhCISlwwZhZFUF-sGDOcOQRuGhROQaJ9IX0o5mQyIgkK-jTTEtgm1w", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "zoo", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "3958 Ince Boulevard, Culver City"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.14839259999999, 
+                        "lng": -118.284088
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.15064995, 
+                            "lng": -118.28408555
+                        }, 
+                        "southwest": {
+                            "lat": 34.14764014999999, 
+                            "lng": -118.28409535
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+                "id": "39297159bb7470119a309a2febbeb13522cad621", 
+                "name": "Los Angeles Zoo", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 1520, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/113044797729732094396/photos\">Jessica Gonzalez</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAOpbF2ed3_YWcV30o9lYnkInliF15Y1SoORIXH2rTKxC8YEhaHa90quWkh1hqYVW8-IXbI8aGwchkjWgHjahSavEkUwPZEUW8B7HNRoEHQ3kEhs3JIPnICONhve8I4v_ci5x5xS268CCbSapSiuqZEw5cvFDrdfJkfHWfBk94p07EhDFtQAaOxO-0MsoyyurZ-NOGhT28BgdCUeIG7KAwO6Vfl8ycOK3Zw", 
+                        "width": 2688
+                    }
+                ], 
+                "place_id": "ChIJ1cdRl2XAwoAR_WUoKRXLQTY", 
+                "rating": 4.2, 
+                "reference": "CmRRAAAAjmUHGQsa0tFGdhs3x5P8BW-05UDzE7FmkWVYwlQN0efWt3y4PtSIEbLDZTyF9Yrv9fD17uWs6d0NhrChrmaLkhmtYEvjjYxcytKbtXNBRBIFzUUX6Hw6EiuVOvCRSnJCEhCD81POWe6eYQimJaqBsYcyGhTS4kvFSJp16seRnK0_dL3E-k75zw", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "zoo", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "5333 Zoo Drive, Los Angeles"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 33.99229, 
+                        "lng": -118.0333756
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "5d5343d1298baa6502af2b07de725afb9709924d", 
+                "name": "Hellman Park", 
+                "opening_hours": {
+                    "open_now": false, 
+                    "weekday_text": []
+                }, 
+                "photos": [
+                    {
+                        "height": 2650, 
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/109648908079779299118/photos\">Andrew Camarillo</a>"
+                        ], 
+                        "photo_reference": "CoQBdwAAAP_HIT30ZTXaAr8e00YeM6ci6Nukj5m4IgrRGK1Ze6lgo3CtUC155aMMboqra14GRbX0T1EV3T6XWTp9MHI6JOniD5wBaVftgvZ7R-f7Yg7IPapUIVqo7HEkK0_XTj0Ud8bHNT7K4p3IXS1VPEYWfyouoCXBO64u-DmW-ODUkY1TEhA_VBHnYwu9oj224TbKQRS4GhTjgo3xyYln8yvEjUHQfytU-5XdPQ", 
+                        "width": 4712
+                    }
+                ], 
+                "place_id": "ChIJXaU4t-bTwoAR8xJyll60Sgw", 
+                "rating": 4.6, 
+                "reference": "CmRRAAAAm7ozfdnz_RrcluCFGRDRFPEPOdtt2B7FVovP2DpJS_x4rCk3CUwLfhlMihmvwyxPxmHLCI_bA-M2AlCelixu9x-nnn758R0OcXBuraxoSJ56GmC-jpxGTPsxobihZb4XEhDcKLQAiV_6THWfpuInIuBnGhTE9Wp1wQbwEjwlOluPXFNqImdwzA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "zoo", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "5700 Greenleaf Ave, Whittier"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.41574049999999, 
+                        "lng": -118.4534151
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.41671504999999, 
+                            "lng": -118.4534094
+                        }, 
+                        "southwest": {
+                            "lat": 34.41541564999999, 
+                            "lng": -118.4534322
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png", 
+                "id": "fbef0d6dd461cfa4da03e9a8377193f43c9c2aed", 
+                "name": "Church of Scientology Mission of Santa Clarita", 
+                "opening_hours": {
+                    "open_now": true, 
+                    "weekday_text": []
+                }, 
+                "place_id": "ChIJGwTEWPCIwoARPYT976fqK_Q", 
+                "rating": 3.8, 
+                "reference": "CmRSAAAAjYR7L1JN2KamVuH6MA-C8Xwip8f5P2FJkeY__SWrZtG_W6IxwK53uJkolbixkr_KxAdZH0BEP-3BeamLKq99MBe_oca4_e5y4sSxERB3ynD9I8FItoUM_q0Lm3A6O5XbEhAy9CdF6oeventKLl3297bvGhSevHti_LQwmqGNET5H2EA4lw-GzA", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "church", 
+                    "place_of_worship", 
+                    "zoo", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "18346 Soledad Canyon Road, Santa Clarita"
+            }, 
+            {
+                "geometry": {
+                    "location": {
+                        "lat": 34.4356688, 
+                        "lng": -118.4015374
+                    }, 
+                    "viewport": {
+                        "northeast": {
+                            "lat": 34.43684014999999, 
+                            "lng": -118.40103355
+                        }, 
+                        "southwest": {
+                            "lat": 34.43527835, 
+                            "lng": -118.40170535
+                        }
+                    }
+                }, 
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png", 
+                "id": "07a84a1f36aa0de3e48153e6889432d33a98b3b7", 
+                "name": "Vasquez Rocks", 
+                "place_id": "ChIJ67q19XiJwoARADO9d7g7O0A", 
+                "reference": "CmRRAAAANiiq2HQvsqr1ilzVO13AHWZ1DiT5Eg3yGo5mSq-svqR23-7-YFzho65e9zdX4SxBuKN7IX76leou1X8SgsLT4E2FMkCA6-JR4oTd5dz_tql-sRZOm3fy3TX6XI9GUrUnEhDebX_hiEvUG7yCQjQMO3U8GhRNTC4CvDCHaxY4CujXxM8Bg_-wUQ", 
+                "scope": "GOOGLE", 
+                "types": [
+                    "park", 
+                    "zoo", 
+                    "point_of_interest", 
+                    "establishment"
+                ], 
+                "vicinity": "15208 Lotusgarden Drive, Canyon Country"
+            }
+        ], 
+        "status": "OK"
+    }
+}
